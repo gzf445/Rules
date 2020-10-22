@@ -1,16 +1,24 @@
 payload:
   ## > LocalLan
   - DOMAIN-SUFFIX,example
-  - DOMAIN-SUFFIX,home.arpa
   - DOMAIN-SUFFIX,invalid
   - DOMAIN-SUFFIX,ip6-loopback
   - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localdomain
   - DOMAIN-SUFFIX,localhost
-  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
-  - DOMAIN-SUFFIX,localhost.sec.qq.com
   - DOMAIN-SUFFIX,test
+  - DOMAIN-SUFFIX,home.arpa
+  - DOMAIN-SUFFIX,router.asus.com
+  - DOMAIN-SUFFIX,foo.com
+  - DOMAIN-SUFFIX,lens.l.google.com
+  - DOMAIN-SUFFIX,stun.l.google.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,n.n.srv.nintendo.net
+  - DOMAIN-SUFFIX,localhost.sec.qq.com
+  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,xnotify.xboxlive.com
   - IP-CIDR,0.0.0.0/8,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
