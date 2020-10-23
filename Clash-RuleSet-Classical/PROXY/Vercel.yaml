@@ -1,6 +1,7 @@
 payload:
   ## > Vercel
   - DOMAIN-SUFFIX,now.sh
+  - DOMAIN-SUFFIX,vercel-analytics.com
   - DOMAIN-SUFFIX,vercel-dns.com
   - DOMAIN-SUFFIX,vercel-status.com
   - DOMAIN-SUFFIX,vercel.app
@@ -12,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,zeit.co
   - DOMAIN-SUFFIX,zeit.sh
   - DOMAIN-SUFFIX,zeitworld.com
+  ## >> Next.js
+  - DOMAIN-SUFFIX,nextjs.org
