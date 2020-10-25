@@ -1,7 +1,7 @@
 {% if request.target == "clash" or request.target == "clashr" %}
 
-mixed-port: 8888
-redir-port: 8890
+mixed-port: {{ local.clash.mixed_port }}
+redir-port: {{ local.clash.redir_port}}
 #authentication:
 #  - "firefly:WJ960923"
 allow-lan: {{ local.clash.allow_lan }}

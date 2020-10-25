@@ -7,31 +7,44 @@ log-level: info
 ipv6: true
 external-controller: 0.0.0.0:8080
 secret: ''
+tun:
+  enable: true
+  stack: system # or gvisor
 hosts: ~
 dns:
   enable: true
-  listen: 0.0.0.0:53
+  listen: 127.0.0.1:1053
+  ipv6: true
   default-nameserver:
     - 223.5.5.5
     - 8.8.8.8
-  enhanced-mode: fake-ip
+  enhanced-mode: fake-ip # redir-host #fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - '*.lan'
-    - msftconnecttest.com
+    - '*.localdomain'
+    - '*.example'
+    - '*.invalid'
+    - '*.localhost'
+    - '*.test'
+    - '*.local'
+    - '*.home.arpa'
+    - '*.router.asus.com'
+    - 'localhost.ptlogin2.qq.com'
+    - 'localhost.sec.qq.com'
+    - 'msftconnecttest.com'
     - '*.msftconnecttest.com'
-    - msftncsi.com
+    - 'msftncsi.com'
     - '*.msftncsi.com'
-    - localhost.ptlogin2.qq.com
-    - localhost.sec.qq.com
-    - +.stun.*.*
-    - +.stun.*.*.*
-    - +.stun.*.*.*.*
-    - lens.l.google.com
-    - stun.l.google.com
+    - '+.stun.*.*'
+    - '+.stun.*.*.*'
+    - '+.stun.*.*.*.*'
+    - 'lens.l.google.com'
+    - 'stun.l.google.com'
     - '*.n.n.srv.nintendo.net'
-    - .apple.*
-    - +.foo.com
+    - '.apple.*'
+    - '+.foo.com'
+    - 'xnotify.xboxlive.com'
   nameserver:
     - 223.5.5.5
     - 119.29.29.29
@@ -41,20 +54,7 @@ dns:
     - https://dns.google/dns-query
     - https://doh.opendns.com/dns-query
     - https://dns.twnic.tw/dns-query
-    - https://dns.quad9.net/dns-query
-    - https://doh.qis.io/dns-query
-    - https://doh.powerdns.org
-    #    - 101.101.101.101
-    #    - tcp://119.29.107.85:9090
-    #    - https://dns.rubyfish.cn/dns-query
-    #    - https://doh.dns.sb/dns-query
-    #    - https://sdns.233py.com/dns-query
-    #    - https://edns.233py.com/dns-query
-    #    - tls://cloudflare-dns.com:853
-    #    - tls://dns.google:853
-    #    - tls://dns-tls.qis.io:853
   fallback:
-    - https://dns.alidns.com/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns.quad9.net/dns-query
     - https://cloudflare-dns.com/dns-query
@@ -62,17 +62,9 @@ dns:
     - https://doh.qis.io/dns-query
     - https://doh.opendns.com/dns-query
     - https://doh.powerdns.org
-    #   - tcp://1.1.1.1
-    #    - https://doh.dns.sb/dns-query
-    #    - https://dns.rubyfish.cn/dns-query
-    #    - https://sdns.233py.com/dns-query
-    #    - https://edns.233py.com/dns-query
-    #    - tls://cloudflare-dns.com:853
-    #    - tls://dns.google:853
-    #    - tls://dns-tls.qis.io:853
   fallback-filter:
-    geoip: true
-    ipcidr:
+    geoip: true # default
+    ipcidr: # ips in these subnets will be considered polluted
       - 0.0.0.0/32
-      - 127.0.0.1/32
+      - 127.0.0.0/8
       - 240.0.0.0/4
