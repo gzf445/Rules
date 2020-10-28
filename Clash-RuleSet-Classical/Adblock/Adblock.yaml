@@ -2849,7 +2849,6 @@ payload:
   - DOMAIN-SUFFIX,weus2watcab01.blob.core.windows.net
   - DOMAIN-SUFFIX,weus2watcab02.blob.core.windows.net
   - DOMAIN-SUFFIX,encoderfarmstatsnew.servicebus.windows.net
-  - DOMAIN-SUFFIX,api.cortana.ai
   - DOMAIN-SUFFIX,bs.serving-sys.com
   - DOMAIN-SUFFIX,msntest.serving-sys.com
   - DOMAIN-SUFFIX,cs1.wpc.v0cdn.net
