@@ -2382,8 +2382,10 @@ payload:
   - DOMAIN-SUFFIX,qingtingfm.com
   - DOMAIN-SUFFIX,qtfm.cn
   ## > 人人网
-  - DOMAIN-SUFFIX,renren.com
   - DOMAIN-SUFFIX,renren-inc.com
+  - DOMAIN-SUFFIX,renren.com
+  - DOMAIN-SUFFIX,rrfmn.com
+  - DOMAIN-SUFFIX,rrimg.com
   ## > 人人影视
   - DOMAIN-SUFFIX,got001.com
   - DOMAIN-SUFFIX,got002.com
