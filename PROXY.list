@@ -1598,6 +1598,7 @@ DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discord.new
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.page.link
 ## > Disqus
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com

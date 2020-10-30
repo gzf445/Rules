@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,discord.new
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordapp.page.link
