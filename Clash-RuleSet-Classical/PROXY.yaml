@@ -2961,6 +2961,7 @@ payload:
   - DOMAIN-SUFFIX,sony.ca
   - DOMAIN-SUFFIX,sony.ch
   - DOMAIN-SUFFIX,sony.cl
+  - DOMAIN-SUFFIX,sony.cn
   - DOMAIN-SUFFIX,sony.co.cr
   - DOMAIN-SUFFIX,sony.co.id
   - DOMAIN-SUFFIX,sony.co.in
@@ -2974,6 +2975,7 @@ payload:
   - DOMAIN-SUFFIX,sony.com.au
   - DOMAIN-SUFFIX,sony.com.bo
   - DOMAIN-SUFFIX,sony.com.br
+  - DOMAIN-SUFFIX,sony.com.cn
   - DOMAIN-SUFFIX,sony.com.co
   - DOMAIN-SUFFIX,sony.com.do
   - DOMAIN-SUFFIX,sony.com.ec
@@ -3021,6 +3023,7 @@ payload:
   - DOMAIN-SUFFIX,sony.si
   - DOMAIN-SUFFIX,sony.sk
   - DOMAIN-SUFFIX,sony.ua
+  - DOMAIN-SUFFIX,cn-playnow.com.cn
   - DOMAIN-SUFFIX,ginzasonypark.jp
   - DOMAIN-SUFFIX,sony-africa.com
   - DOMAIN-SUFFIX,sony-asia.com
@@ -3036,12 +3039,16 @@ payload:
   - DOMAIN-SUFFIX,sonybuilding.jp
   - DOMAIN-SUFFIX,sonydesign.com
   - DOMAIN-SUFFIX,sonydna.com
+  - DOMAIN-SUFFIX,sonyged.com.cn
   - DOMAIN-SUFFIX,sonyglobalsolutions.jp
   - DOMAIN-SUFFIX,sonykigyo.jp
   - DOMAIN-SUFFIX,sonylatvija.com
   - DOMAIN-SUFFIX,sonypcl.jp
   - DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
+  - DOMAIN-SUFFIX,sonyselect.cn
+  - DOMAIN-SUFFIX,sonyselect.com.cn
   - DOMAIN-SUFFIX,sonystoragemedia.co.jp
+  - DOMAIN-SUFFIX,sonystyle.com.cn
   - DOMAIN-SUFFIX,sonytc.co.jp
   - DOMAIN-SUFFIX,sovec.net
   # >> Playstation
