@@ -478,6 +478,12 @@ payload:
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
   - DOMAIN-SUFFIX,ulol.com
+  ## >> Valorant
+  - DOMAIN-SUFFIX,playvalorant.com
+  ## >> Riot Forge
+  - DOMAIN-SUFFIX,convrgencegame.com
+  - DOMAIN-SUFFIX,riotforgegames.com
+  - DOMAIN-SUFFIX,ruinedking.com
   ## > Rockstar
   - DOMAIN-SUFFIX,rockstargames.com
   - DOMAIN-SUFFIX,rsg.sc

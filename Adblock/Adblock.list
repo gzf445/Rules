@@ -3562,6 +3562,10 @@ DOMAIN-SUFFIX,data.vod.itc.cn
 DOMAIN-SUFFIX,a1.itc.cn
 DOMAIN-SUFFIX,e8aeb8bbdbbd7.cdn.sohucs.com
 DOMAIN-SUFFIX,643108e7617ef.cdn.sohucs.com
+## > Spotify-ads
+DOMAIN-SUFFIX,adeventtracker.spotify.com
+DOMAIN-SUFFIX,adstudio-assets.scdn.co
+DOMAIN-SUFFIX,bloodhound.spotify.com
 ## > Taboola-ads
 DOMAIN-SUFFIX,la-sync.taboola.com
 DOMAIN-SUFFIX,15.taboola.com
@@ -7941,7 +7945,6 @@ DOMAIN-SUFFIX,adentifi.com
 DOMAIN-SUFFIX,adeq.hiidc.com.cn
 DOMAIN-SUFFIX,ader.mobi
 DOMAIN-SUFFIX,adespresso.com
-DOMAIN-SUFFIX,adeventtracker.spotify.com
 DOMAIN-SUFFIX,adexc.net
 DOMAIN-SUFFIX,adexchange.io
 DOMAIN-SUFFIX,adexchangecloud.com
