@@ -2138,7 +2138,6 @@ DOMAIN-SUFFIX,afp.iqiyi.com
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
 DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cm.passport.iqiyi.com
-DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
 DOMAIN-SUFFIX,gamecenter.iqiyi.com
 DOMAIN-SUFFIX,hotchat-im.iqiyi.com
@@ -2164,24 +2163,16 @@ DOMAIN-SUFFIX,static.g.iqiyi.com
 DOMAIN-SUFFIX,tracker.sns.iqiyi.com
 DOMAIN-SUFFIX,cmts.iqiyi.com
 DOMAIN-SUFFIX,api-t.iqiyi.com
-DOMAIN-SUFFIX,msg.video.iqiyi.com
-DOMAIN-SUFFIX,jsmsg.video.iqiyi.com
 DOMAIN-SUFFIX,api.yuedu.iqiyi.com
 DOMAIN-SUFFIX,cards-css.iqiyi.com
 DOMAIN-SUFFIX,dx-cards-css.iqiyi.com
-DOMAIN-SUFFIX,msg.video.qiyi.com
-DOMAIN-SUFFIX,msg2.video.qiyi.com
 DOMAIN-SUFFIX,afp.qiyi.com
-DOMAIN-SUFFIX,api.cupid.qiyi.com
 DOMAIN-SUFFIX,meta.video.qiyi.com
-DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
 DOMAIN-SUFFIX,track.cupid.qiyi.com
 DOMAIN-SUFFIX,show.cupid.qiyi.com
 DOMAIN-SUFFIX,policy.cupid.qiyi.com
-DOMAIN-SUFFIX,jsmsg.video.qiyi.com
 DOMAIN-SUFFIX,data.video.qiyi.com
 DOMAIN-SUFFIX,uestat.video.qiyi.com
-DOMAIN-SUFFIX,msg1.video.qiyi.com
 DOMAIN-SUFFIX,paopao0.qiyipic.com
 DOMAIN-SUFFIX,paopao1.qiyipic.com
 DOMAIN-SUFFIX,paopao2.qiyipic.com
@@ -2192,11 +2183,11 @@ DOMAIN-SUFFIX,androidgo.duapp.com
 DOMAIN-SUFFIX,noxagile.duapp.com
 DOMAIN-SUFFIX,count.game.pps.tv
 DOMAIN-SUFFIX,game.pps.tv
-DOMAIN-SUFFIX,msga.71.am
-DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,api.ts.feedback.71.am
 DOMAIN-SUFFIX,static.g.ppstream.com
 DOMAIN-SUFFIX,stat.ppstream.com
+DOMAIN-SUFFIX,feedback.qy.net
+DOMAIN-SUFFIX,api.ts.feedback.qy.net
 ## >> 银河奇异果-ads
 DOMAIN-SUFFIX,mixer.cupid.ptqy.gitv.tv
 DOMAIN-SUFFIX,msga.ptqy.gitv.tv
@@ -10179,7 +10170,6 @@ DOMAIN-SUFFIX,api.tongji.today
 DOMAIN-SUFFIX,api.touchxd.com
 DOMAIN-SUFFIX,api.tr.blismedia.com
 DOMAIN-SUFFIX,api.traq.li
-DOMAIN-SUFFIX,api.ts.feedback.qy.net
 DOMAIN-SUFFIX,api.ujian.cc
 DOMAIN-SUFFIX,api.union.vip.com
 DOMAIN-SUFFIX,api.uniplayad.com
@@ -19323,7 +19313,6 @@ DOMAIN-SUFFIX,feed777.me
 DOMAIN-SUFFIX,feedage.com
 DOMAIN-SUFFIX,feedage.net
 DOMAIN-SUFFIX,feedaty.com
-DOMAIN-SUFFIX,feedback.qy.net
 DOMAIN-SUFFIX,feedblitz.com
 DOMAIN-SUFFIX,feedcat.net
 DOMAIN-SUFFIX,feedgist.com
@@ -29656,11 +29645,9 @@ DOMAIN-SUFFIX,msg.c002.ottcn.com
 DOMAIN-SUFFIX,msg.eclicks.cn
 DOMAIN-SUFFIX,msg.ettoday.net
 DOMAIN-SUFFIX,msg.mobile.kglink.cn
-DOMAIN-SUFFIX,msg.qy.net
 DOMAIN-SUFFIX,msgapp.com
 DOMAIN-SUFFIX,msgs.jp
 DOMAIN-SUFFIX,msgtag.com
-DOMAIN-SUFFIX,msgv6.qy.net
 DOMAIN-SUFFIX,msgwxozk.com
 DOMAIN-SUFFIX,msigpurubzkm.com
 DOMAIN-SUFFIX,mskjf.com
