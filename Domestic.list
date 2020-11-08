@@ -1225,6 +1225,15 @@ DOMAIN-SUFFIX,hiido.net
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yyclouds.com
 DOMAIN-SUFFIX,c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net
+## > Fiio (飞傲)
+DOMAIN-SUFFIX,fiio.cn
+DOMAIN-SUFFIX,fiio.com
+DOMAIN-SUFFIX,fiio.com.cn
+DOMAIN-SUFFIX,fiio.net
+## > HibyMusic (海贝音乐)
+DOMAIN-SUFFIX,hiby.cd
+DOMAIN-SUFFIX,hiby.com
+DOMAIN-SUFFIX,hibymusic.com
 ## > Hupu
 DOMAIN-SUFFIX,afpchinesesports.com
 DOMAIN-SUFFIX,goalhi.cn
@@ -2457,6 +2466,12 @@ DOMAIN-SUFFIX,sffix.cn
 DOMAIN-SUFFIX,sfgy.org
 ## > Sfacg
 DOMAIN-SUFFIX,sfacg.com
+## > Shanling (山灵音响)
+DOMAIN-SUFFIX,onixhiend.com
+DOMAIN-SUFFIX,shanling.com
+DOMAIN-SUFFIX,山灵.com
+DOMAIN-SUFFIX,山灵数码.com
+DOMAIN-SUFFIX,山灵音响.com
 ## > 上海聚效
 DOMAIN-SUFFIX,bubuying.net
 DOMAIN-SUFFIX,kuaishuru.net
