@@ -1,6 +1,7 @@
 payload:
   ## > Github
   - DOMAIN-SUFFIX,dependabot.com
+  - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
