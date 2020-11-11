@@ -100,6 +100,22 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.com
 DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
+## >> google-ads
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+DOMAIN-SUFFIX,adsenseformobileapps.com
+DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,advertiserscommunity.com
+DOMAIN-SUFFIX,adwords-community.com
+DOMAIN-SUFFIX,adwordsexpress.com
+DOMAIN-SUFFIX,clickserver.googleads.com
+DOMAIN-SUFFIX,googleadapis.com
+DOMAIN-SUFFIX,googleoptimize.com
+DOMAIN-SUFFIX,googletraveladservices.com
+## >> google-registry
+DOMAIN-SUFFIX,charlestonroadregistry.com
+DOMAIN-SUFFIX,registry.google
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+DOMAIN-SUFFIX,はじめよう.みんな
 ## >> Google-scholar
 DOMAIN-SUFFIX,scholar.google.ae
 DOMAIN-SUFFIX,scholar.google.at
