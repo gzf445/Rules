@@ -622,6 +622,9 @@ payload:
   ## > 华文电视
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,ocnttv.com
+  ## > iTalkBB
+  - DOMAIN-SUFFIX,italkbb.com
+  - DOMAIN-SUFFIX,italkbbtv.com
   ## > ITV
   - DOMAIN-SUFFIX,itv.com
   - DOMAIN-SUFFIX,itvstatic.com
