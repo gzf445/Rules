@@ -124,13 +124,18 @@ payload:
   - DOMAIN-SUFFIX,adventuresbydisney.com
   - DOMAIN-SUFFIX,babble.com
   - DOMAIN-SUFFIX,babyzone.com
+  - DOMAIN-SUFFIX,bam.nr-date.net
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,cdn.unid.go.com
   - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,d9.flashtalking.com
   - DOMAIN-SUFFIX,dilcdn.com
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney-studio.com
   - DOMAIN-SUFFIX,disney-studio.net
   - DOMAIN-SUFFIX,disney.be
@@ -157,6 +162,7 @@ payload:
   - DOMAIN-SUFFIX,disney.io
   - DOMAIN-SUFFIX,disney.it
   - DOMAIN-SUFFIX,disney.my
+  - DOMAIN-SUFFIX,disney.my.sentry.io
   - DOMAIN-SUFFIX,disney.nl
   - DOMAIN-SUFFIX,disney.no
   - DOMAIN-SUFFIX,disney.ph
@@ -196,6 +202,7 @@ payload:
   - DOMAIN-SUFFIX,disneynewseries.com
   - DOMAIN-SUFFIX,disneynow.com
   - DOMAIN-SUFFIX,disneypeoplesurveys.com
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,disneyredirects.com
   - DOMAIN-SUFFIX,disneysrivieraresort.com
@@ -208,6 +215,7 @@ payload:
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,go-disneyworldgo.com
   - DOMAIN-SUFFIX,go.com
+  - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,mickey.tv
   - DOMAIN-SUFFIX,moviesanywhere.com
   - DOMAIN-SUFFIX,playmation.com
@@ -221,9 +229,6 @@ payload:
   - DOMAIN-SUFFIX,thestationbymaker.com
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
-  - DOMAIN,cdn.registerdisney.go.com
-  - DOMAIN,cdn.unid.go.com
-  - DOMAIN,disney.my.sentry.io
   ## >> ABC
   - DOMAIN-SUFFIX,abc-studios.com
   - DOMAIN-SUFFIX,abc.com
