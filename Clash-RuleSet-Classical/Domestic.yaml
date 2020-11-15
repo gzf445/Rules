@@ -1498,7 +1498,6 @@ payload:
   - DOMAIN-SUFFIX,7fresh.com
   - DOMAIN-SUFFIX,baitiao.com
   - DOMAIN-SUFFIX,blackdragon.com
-  - DOMAIN-SUFFIX,chinabank.com.cn
   - DOMAIN-SUFFIX,dao123.com
   - DOMAIN-SUFFIX,jcloud-cdn.com
   - DOMAIN-SUFFIX,jcloud-live.com
@@ -1526,12 +1525,8 @@ payload:
   - DOMAIN-SUFFIX,jdcloud-api.com
   - DOMAIN-SUFFIX,jddapeigou.com
   - DOMAIN-SUFFIX,jddebug.com
-  - DOMAIN-SUFFIX,jddglobal.com
-  - DOMAIN-SUFFIX,jdjinrong.com
-  - DOMAIN-SUFFIX,jdpay.com
   - DOMAIN-SUFFIX,jdx.com
   - DOMAIN-SUFFIX,jdwl.com
-  - DOMAIN-SUFFIX,jingdongjinrong.com
   - DOMAIN-SUFFIX,joybuy.com
   - DOMAIN-SUFFIX,linglonglife.com
   - DOMAIN-SUFFIX,mayshijia.com
@@ -1542,10 +1537,7 @@ payload:
   - DOMAIN-SUFFIX,qianxun.com
   - DOMAIN-SUFFIX,toplife.com
   - DOMAIN-SUFFIX,vg.com
-  - DOMAIN-SUFFIX,wangyin.com
   - DOMAIN-SUFFIX,wdfok.com
-  - DOMAIN-SUFFIX,yhd.com
-  - DOMAIN-SUFFIX,yihaodianimg.com
   - DOMAIN-SUFFIX,yiyaojd.com
   - DOMAIN-SUFFIX,jcloudstatic.net
   - DOMAIN-SUFFIX,ocwms.com
@@ -1649,7 +1641,22 @@ payload:
   - DOMAIN-SUFFIX,jkcsjd.com
   - DOMAIN-SUFFIX,joybuy.es
   - DOMAIN-SUFFIX,yizhitou.com
+  ## >> 京东数科
+  - DOMAIN-SUFFIX,chinabank.com.cn
+  - DOMAIN-SUFFIX,jddglobal.com
+  - DOMAIN-SUFFIX,jdfmgt.com
+  - DOMAIN-SUFFIX,jdjinrong.com
+  - DOMAIN-SUFFIX,jdpay.com
+  - DOMAIN-SUFFIX,jingdongjinrong.com
+  - DOMAIN-SUFFIX,wangyin.com
+  ## >> 一号店
+  - DOMAIN-SUFFIX,info-insur.com
+  - DOMAIN-SUFFIX,jdworldwide.com
+  - DOMAIN-SUFFIX,yhcdn.cn
+  - DOMAIN-SUFFIX,yhd.com
   - DOMAIN-SUFFIX,yihaodian.com
+  - DOMAIN-SUFFIX,yihaodianimg.com
+  - DOMAIN-SUFFIX,yihaomall.com
   ## > 界面
   - DOMAIN-SUFFIX,jiemian.com
   - DOMAIN-SUFFIX,jiemian.com.cn
@@ -3464,6 +3471,12 @@ payload:
   - DOMAIN-SUFFIX,小狗电器.中国
   - DOMAIN-SUFFIX,小狗电器.公司
   - DOMAIN-SUFFIX,小狗电器.网络
+  ## > 小源科技
+  - DOMAIN-SUFFIX,10010mx.com
+  - DOMAIN-SUFFIX,5gimos.com
+  - DOMAIN-SUFFIX,bizport.cn
+  - DOMAIN-SUFFIX,mfexcel.com
+  - DOMAIN-SUFFIX,microfountain.com
   ## > 携程
   - DOMAIN-SUFFIX,c-ctrip.com
   - DOMAIN-SUFFIX,colinker.com
