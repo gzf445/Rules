@@ -3378,10 +3378,6 @@ payload:
   - DOMAIN-SUFFIX,happykey6.com
   - DOMAIN-SUFFIX,ieeewifi.com
   - DOMAIN-SUFFIX,ilinksure.com
-  - DOMAIN-SUFFIX,lianliantao.cn
-  - DOMAIN-SUFFIX,lianliantao.com.cn
-  - DOMAIN-SUFFIX,lianliantao.net
-  - DOMAIN-SUFFIX,lianliantaoshop.com
   - DOMAIN-SUFFIX,lianwangtech.com
   - DOMAIN-SUFFIX,lianwifi.com
   - DOMAIN-SUFFIX,lsgenius.com
@@ -3406,6 +3402,11 @@ payload:
   - DOMAIN-SUFFIX,y5news.com
   - DOMAIN-SUFFIX,y5store.com
   - DOMAIN-SUFFIX,zenmen.com
+  ## >> 连连淘
+  - DOMAIN-SUFFIX,lianliantao.cn
+  - DOMAIN-SUFFIX,lianliantao.net
+  - DOMAIN-SUFFIX,lianliantao.com.cn
+  - DOMAIN-SUFFIX,lianliantaoshop.com
   ## >> 连尚头条
   - DOMAIN-SUFFIX,51lstt.com
   - DOMAIN-SUFFIX,lstt-app.com
