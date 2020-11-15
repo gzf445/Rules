@@ -2521,6 +2521,10 @@ payload:
   - DOMAIN-SUFFIX,山灵.com
   - DOMAIN-SUFFIX,山灵数码.com
   - DOMAIN-SUFFIX,山灵音响.com
+  ## > 识农智能科技
+  - DOMAIN-SUFFIX,senseagro.cn
+  - DOMAIN-SUFFIX,senseagro.com
+  - DOMAIN-SUFFIX,senseagro.com.cn
   ## > 上海聚效
   - DOMAIN-SUFFIX,bubuying.net
   - DOMAIN-SUFFIX,kuaishuru.net
