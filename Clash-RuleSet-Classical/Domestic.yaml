@@ -1684,6 +1684,9 @@ payload:
   - DOMAIN-SUFFIX,jianshu.io
   - DOMAIN-SUFFIX,baijii.com
   - DOMAIN-SUFFIX,jianshuapi.com
+  ## > 金华锦尚
+  - DOMAIN-SUFFIX,jinshangtechnology.com
+  - DOMAIN-SUFFIX,yingshidq.com.cn
   ## > 金数据
   - DOMAIN-SUFFIX,jinshuju.net
   - DOMAIN-SUFFIX,jinshujucdn.com
