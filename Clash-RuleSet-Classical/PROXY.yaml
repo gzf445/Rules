@@ -3478,6 +3478,7 @@ payload:
   - IP-CIDR6,2a02:6b8:d::/48,no-resolve
   - IP-CIDR6,2a02:6b8:e::/48,no-resolve
   ## > Yahoo
+  - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,myguide.hk
   - DOMAIN-SUFFIX,yahoo-news.com.hk
   - DOMAIN-SUFFIX,yahoo.ae
@@ -3523,17 +3524,14 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com.ag
   - DOMAIN-SUFFIX,yahoo.com.ai
   - DOMAIN-SUFFIX,yahoo.com.ar
-  - DOMAIN-SUFFIX,yahoo.com.au
   - DOMAIN-SUFFIX,yahoo.com.bd
   - DOMAIN-SUFFIX,yahoo.com.bo
   - DOMAIN-SUFFIX,yahoo.com.br
   - DOMAIN-SUFFIX,yahoo.com.bz
-  - DOMAIN-SUFFIX,yahoo.com.cn
   - DOMAIN-SUFFIX,yahoo.com.co
   - DOMAIN-SUFFIX,yahoo.com.do
   - DOMAIN-SUFFIX,yahoo.com.ec
   - DOMAIN-SUFFIX,yahoo.com.eg
-  - DOMAIN-SUFFIX,yahoo.com.es
   - DOMAIN-SUFFIX,yahoo.com.fj
   - DOMAIN-SUFFIX,yahoo.com.gi
   - DOMAIN-SUFFIX,yahoo.com.gt
@@ -3581,12 +3579,10 @@ payload:
   - DOMAIN-SUFFIX,yahoo.gp
   - DOMAIN-SUFFIX,yahoo.gr
   - DOMAIN-SUFFIX,yahoo.gy
-  - DOMAIN-SUFFIX,yahoo.hk
   - DOMAIN-SUFFIX,yahoo.hr
   - DOMAIN-SUFFIX,yahoo.hu
   - DOMAIN-SUFFIX,yahoo.ie
   - DOMAIN-SUFFIX,yahoo.im
-  - DOMAIN-SUFFIX,yahoo.in
   - DOMAIN-SUFFIX,yahoo.is
   - DOMAIN-SUFFIX,yahoo.it
   - DOMAIN-SUFFIX,yahoo.je
@@ -3599,12 +3595,10 @@ payload:
   - DOMAIN-SUFFIX,yahoo.me
   - DOMAIN-SUFFIX,yahoo.mk
   - DOMAIN-SUFFIX,yahoo.mw
-  - DOMAIN-SUFFIX,yahoo.mx
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,yahoo.nl
   - DOMAIN-SUFFIX,yahoo.no
   - DOMAIN-SUFFIX,yahoo.nu
-  - DOMAIN-SUFFIX,yahoo.ph
   - DOMAIN-SUFFIX,yahoo.pl
   - DOMAIN-SUFFIX,yahoo.pn
   - DOMAIN-SUFFIX,yahoo.ps
@@ -3613,7 +3607,6 @@ payload:
   - DOMAIN-SUFFIX,yahoo.ru
   - DOMAIN-SUFFIX,yahoo.rw
   - DOMAIN-SUFFIX,yahoo.se
-  - DOMAIN-SUFFIX,yahoo.sg
   - DOMAIN-SUFFIX,yahoo.sh
   - DOMAIN-SUFFIX,yahoo.si
   - DOMAIN-SUFFIX,yahoo.sk
@@ -3630,14 +3623,8 @@ payload:
   - DOMAIN-SUFFIX,yahoo.vg
   - DOMAIN-SUFFIX,yahoo.ws
   - DOMAIN-SUFFIX,yahooapis.com
-  - DOMAIN-SUFFIX,yahoodns.net
-  - DOMAIN-SUFFIX,yahoofinance.com
-  - DOMAIN-SUFFIX,yahoohealth.com
-  - DOMAIN-SUFFIX,yahoomusic.com
-  - DOMAIN-SUFFIX,yahoosportsbook.com
   - DOMAIN-SUFFIX,yimg.com
-  - DOMAIN-SUFFIX,ymail.com
-  - DOMAIN-SUFFIX,data.flurry.com
+  - DOMAIN-SUFFIX,yimg.jp
   # >> Flickr
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flickr.net
@@ -5663,7 +5650,6 @@ payload:
   - DOMAIN-SUFFIX,flipkart.com
   - DOMAIN-SUFFIX,flitto.com
   - DOMAIN-SUFFIX,flog.tw
-  - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,flyvpn.com
   - DOMAIN-SUFFIX,flyzy2005.com
   - DOMAIN-SUFFIX,fmnnow.com
