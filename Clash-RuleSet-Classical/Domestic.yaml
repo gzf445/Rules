@@ -2298,6 +2298,10 @@ payload:
   ## > 米忽悠
   - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,bh3.com
+  ## > 米物
+  - DOMAIN-SUFFIX,miiiw.cn
+  - DOMAIN-SUFFIX,miiiw.com
+  - DOMAIN-SUFFIX,miiiw.net
   ## > 明略昭辉
   - DOMAIN-SUFFIX,3wnet.cn
   - DOMAIN-SUFFIX,admonitor.org
