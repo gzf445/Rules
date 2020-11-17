@@ -2813,7 +2813,12 @@ payload:
   - DOMAIN-SUFFIX,sinopayment.com.cn
   ## >> 蚂蚁金服
   - DOMAIN-SUFFIX,ant-biz.com
+  - DOMAIN-SUFFIX,ant-financial.com
   - DOMAIN-SUFFIX,ant-open.com
+  - DOMAIN-SUFFIX,antfin.com
+  - DOMAIN-SUFFIX,antfinancial-corp.com
+  - DOMAIN-SUFFIX,antfinancial.com
+  - DOMAIN-SUFFIX,antgroup.com
   ## >> 语雀
   - DOMAIN-SUFFIX,nlark.com
   - DOMAIN-SUFFIX,yuque-space.com
