@@ -2494,6 +2494,16 @@ payload:
   ## > OSChina
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,oschina.net
+  ## > 欧朋浏览器
+  - DOMAIN-SUFFIX,adbxb.cn
+  - DOMAIN-SUFFIX,adbxb.com
+  - DOMAIN-SUFFIX,opfed.com
+  - DOMAIN-SUFFIX,opthink.cn
+  - DOMAIN-SUFFIX,oupeng.com
+  - DOMAIN-SUFFIX,oupeng.net.cn
+  - DOMAIN-SUFFIX,oupeng9.com
+  - DOMAIN-SUFFIX,oupengcloud.cn
+  - DOMAIN-SUFFIX,oupengcloud.net
   ## > RubyChina
   - DOMAIN-SUFFIX,ruby-china.org
   - DOMAIN-SUFFIX,rubyconfchina.org
@@ -5915,7 +5925,6 @@ payload:
   - DOMAIN-SUFFIX,opdown.com
   - DOMAIN-SUFFIX,oray.com
   - DOMAIN-SUFFIX,ottcn.com
-  - DOMAIN-SUFFIX,oupeng.com
   - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,p2peye.com
   - DOMAIN-SUFFIX,p5w.net
