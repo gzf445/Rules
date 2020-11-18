@@ -240,3 +240,9 @@ payload:
   # >> 潇湘书院
   - DOMAIN-SUFFIX,xxsy.com
   - DOMAIN-SUFFIX,xxsy.net
+  - IP-CIDR,103.7.28.0/22,no-resolve
+  - IP-CIDR,103.7.28.0/24,no-resolve
+  - IP-CIDR,103.7.29.0/24,no-resolve
+  - IP-CIDR,103.7.30.0/24,no-resolve
+  - IP-CIDR,103.7.31.0/24,no-resolve
+  - IP-CIDR,103.238.16.0/23,no-resolve
