@@ -1981,6 +1981,13 @@ DOMAIN-SUFFIX,weiguan.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coolapkmarket.net
+## > KuaiDi100 快递100
+DOMAIN-SUFFIX,baidiapp.com
+DOMAIN-SUFFIX,baidinet.com
+DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,kd100.com
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kuaidilab.com
 ## > 酷狗 & 酷我
 DOMAIN-SUFFIX,gouwo.com
 DOMAIN-SUFFIX,kgimg.com
@@ -5673,7 +5680,6 @@ DOMAIN-SUFFIX,koudai8.com
 DOMAIN-SUFFIX,kq7.com
 DOMAIN-SUFFIX,kss.la
 DOMAIN-SUFFIX,kuaaa.com
-DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,kuaihou.com
 DOMAIN-SUFFIX,kuaiqun.org
 DOMAIN-SUFFIX,kuaizhan.com
