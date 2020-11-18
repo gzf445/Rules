@@ -2471,6 +2471,15 @@ payload:
   - DOMAIN-SUFFIX,shotwithgeforce.com
   - DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
   - DOMAIN-SUFFIX,nvidia.tt.omtrdc.net
+  ## > Opera
+  - DOMAIN-SUFFIX,opera-mini.net
+  - DOMAIN-SUFFIX,opera.com
+  - DOMAIN-SUFFIX,operacdn.com
+  ## >> Opera-CIDR
+  - IP-CIDR,77.111.244.0/24
+  - IP-CIDR,77.111.245.0/24
+  - IP-CIDR,77.111.246.0/24
+  - IP-CIDR,77.111.247.0/24
   ## > Oracle
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
@@ -7423,8 +7432,6 @@ payload:
   - DOMAIN-SUFFIX,openwebster.com
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,openwrt.org.cn
-  - DOMAIN-SUFFIX,opera-mini.net
-  - DOMAIN-SUFFIX,opera.com
   - DOMAIN-SUFFIX,opus-gaming.com
   - DOMAIN-SUFFIX,orchidbbs.com
   - DOMAIN-SUFFIX,organharvestinvestigation.net

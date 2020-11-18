@@ -1,0 +1,9 @@
+## > Opera
+DOMAIN-SUFFIX,opera-mini.net
+DOMAIN-SUFFIX,opera.com
+DOMAIN-SUFFIX,operacdn.com
+## >> Opera-CIDR
+IP-CIDR,77.111.244.0/24
+IP-CIDR,77.111.245.0/24
+IP-CIDR,77.111.246.0/24
+IP-CIDR,77.111.247.0/24
