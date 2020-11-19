@@ -2362,6 +2362,18 @@ payload:
   ## > Mega
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.nz
+  - IP-CIDR,94.24.36.0/24,no-resolve
+  - IP-CIDR,94.24.37.0/24,no-resolve
+  - IP-CIDR,185.206.24.0/24,no-resolve
+  - IP-CIDR,185.206.25.0/24,no-resolve
+  - IP-CIDR,185.206.26.0/24,no-resolve
+  - IP-CIDR,185.206.27.0/24,no-resolve
+  - IP-CIDR6,2a0b:e40:1::/48,no-resolve
+  - IP-CIDR6,2a0b:e41:1::/48,no-resolve
+  - IP-CIDR6,2a0b:e42:1::/48,no-resolve
+  - IP-CIDR6,2a0b:e43:1::/48,no-resolve
+  - IP-CIDR6,2a0b:e44:1::/48,no-resolve
+  - IP-CIDR6,2a0b:e45:1::/48,no-resolve
   ## > MegaUp
   - DOMAIN-SUFFIX,megaup.net
   ## > Mozilla
@@ -3432,6 +3444,8 @@ payload:
   ## > Xposed
   - DOMAIN-SUFFIX,xposed.info
   ## > Yandex
+  - DOMAIN-SUFFIX,nic.yandex
+  - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
   - DOMAIN-SUFFIX,yandex.co.il
@@ -3440,6 +3454,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.com.ge
   - DOMAIN-SUFFIX,yandex.com.tr
   - DOMAIN-SUFFIX,yandex.ee
+  - DOMAIN-SUFFIX,yandex.fr
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.kz
   - DOMAIN-SUFFIX,yandex.lt
@@ -3454,7 +3469,34 @@ payload:
   - DOMAIN-SUFFIX,yandex.ua
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yastatic.net
-  - DOMAIN-SUFFIX,nic.yandex
+  - IP-CIDR,5.45.192.0/18,no-resolve
+  - IP-CIDR,5.45.196.0/24,no-resolve
+  - IP-CIDR,5.45.202.0/24,no-resolve
+  - IP-CIDR,5.45.205.0/24,no-resolve
+  - IP-CIDR,5.45.213.0/24,no-resolve
+  - IP-CIDR,5.45.229.0/24,no-resolve
+  - IP-CIDR,5.45.240.0/24,no-resolve
+  - IP-CIDR,5.255.192.0/18,no-resolve
+  - IP-CIDR,5.255.195.0/24,no-resolve
+  - IP-CIDR,5.255.196.0/24,no-resolve
+  - IP-CIDR,5.255.200.0/24,no-resolve
+  - IP-CIDR,5.255.252.0/24,no-resolve
+  - IP-CIDR,5.255.255.0/24,no-resolve
+  - IP-CIDR,37.9.64.0/24,no-resolve
+  - IP-CIDR,37.9.64.0/18,no-resolve
+  - IP-CIDR,37.9.73.0/24,no-resolve
+  - IP-CIDR,37.9.112.0/24,no-resolve
+  - IP-CIDR,37.140.128.0/18,no-resolve
+  - IP-CIDR,77.88.0.0/18,no-resolve
+  - IP-CIDR,77.88.8.0/24,no-resolve
+  - IP-CIDR,77.88.35.0/24,no-resolve
+  - IP-CIDR,77.88.44.0/24,no-resolve
+  - IP-CIDR,77.88.54.0/24,no-resolve
+  - IP-CIDR,77.88.55.0/24,no-resolve
+  - IP-CIDR,87.250.224.0/19,no-resolve
+  - IP-CIDR,87.250.247.0/24,no-resolve
+  - IP-CIDR,93.158.128.0/18,no-resolve
+  - IP-CIDR,95.108.128.0/17,no-resolve
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,141.8.128.0/18,no-resolve
   - IP-CIDR,141.8.174.0/24,no-resolve
@@ -3468,41 +3510,9 @@ payload:
   - IP-CIDR,213.180.192.0/19,no-resolve
   - IP-CIDR,213.180.199.0/24,no-resolve
   - IP-CIDR,213.180.202.0/24,no-resolve
-  - IP-CIDR,37.140.128.0/18,no-resolve
-  - IP-CIDR,37.9.112.0/24,no-resolve
-  - IP-CIDR,37.9.64.0/18,no-resolve
-  - IP-CIDR,37.9.64.0/24,no-resolve
-  - IP-CIDR,5.255.192.0/18,no-resolve
-  - IP-CIDR,5.255.192.0/24,no-resolve
-  - IP-CIDR,5.255.195.0/24,no-resolve
-  - IP-CIDR,5.255.196.0/24,no-resolve
-  - IP-CIDR,5.255.200.0/24,no-resolve
-  - IP-CIDR,5.255.252.0/24,no-resolve
-  - IP-CIDR,5.255.255.0/24,no-resolve
-  - IP-CIDR,5.45.192.0/18,no-resolve
-  - IP-CIDR,5.45.196.0/24,no-resolve
-  - IP-CIDR,5.45.202.0/24,no-resolve
-  - IP-CIDR,5.45.205.0/24,no-resolve
-  - IP-CIDR,5.45.213.0/24,no-resolve
-  - IP-CIDR,5.45.229.0/24,no-resolve
-  - IP-CIDR,5.45.240.0/24,no-resolve
-  - IP-CIDR,77.88.0.0/18,no-resolve
-  - IP-CIDR,77.88.35.0/24,no-resolve
-  - IP-CIDR,77.88.44.0/24,no-resolve
-  - IP-CIDR,77.88.54.0/24,no-resolve
-  - IP-CIDR,77.88.55.0/24,no-resolve
-  - IP-CIDR,77.88.8.0/24,no-resolve
-  - IP-CIDR,87.250.224.0/19,no-resolve
-  - IP-CIDR,87.250.247.0/24,no-resolve
-  - IP-CIDR,93.158.128.0/18,no-resolve
-  - IP-CIDR,95.108.128.0/17,no-resolve
   - IP-CIDR6,2620:10f:d000::/44,no-resolve
-  - IP-CIDR6,2a02:6b8:101::/48,no-resolve
-  - IP-CIDR6,2a02:6b8:20::/48,no-resolve
-  - IP-CIDR6,2a02:6b8:21::/48,no-resolve
-  - IP-CIDR6,2a02:6b8:22::/48,no-resolve
-  - IP-CIDR6,2a02:6b8::/29,no-resolve
   - IP-CIDR6,2a02:6b8::/32,no-resolve
+  - IP-CIDR6,2a02:6b8::/29,no-resolve
   - IP-CIDR6,2a02:6b8:4::/48,no-resolve
   - IP-CIDR6,2a02:6b8:6::/48,no-resolve
   - IP-CIDR6,2a02:6b8:8::/48,no-resolve
@@ -3512,6 +3522,10 @@ payload:
   - IP-CIDR6,2a02:6b8:c::/48,no-resolve
   - IP-CIDR6,2a02:6b8:d::/48,no-resolve
   - IP-CIDR6,2a02:6b8:e::/48,no-resolve
+  - IP-CIDR6,2a02:6b8:20::/48,no-resolve
+  - IP-CIDR6,2a02:6b8:21::/48,no-resolve
+  - IP-CIDR6,2a02:6b8:22::/48,no-resolve
+  - IP-CIDR6,2a02:6b8:101::/48,no-resolve
   ## > Yahoo
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,myguide.hk
