@@ -2851,6 +2851,63 @@ payload:
   - DOMAIN-SUFFIX,antfinancial-corp.com
   - DOMAIN-SUFFIX,antfinancial.com
   - DOMAIN-SUFFIX,antgroup.com
+  - IP-CIDR,45.113.40.0/23,no-resolve
+  - IP-CIDR,45.113.40.0/22,no-resolve
+  - IP-CIDR,45.113.42.0/23,no-resolve
+  - IP-CIDR,103.52.196.0/23,no-resolve
+  - IP-CIDR,103.52.196.0/22,no-resolve
+  - IP-CIDR,103.52.198.0/23,no-resolve
+  - IP-CIDR,110.75.128.0/17,no-resolve
+  - IP-CIDR,110.75.138.0/23,no-resolve
+  - IP-CIDR,110.75.227.0/24,no-resolve
+  - IP-CIDR,110.75.228.0/24,no-resolve
+  - IP-CIDR,110.75.230.0/24,no-resolve
+  - IP-CIDR,110.75.233.0/24,no-resolve
+  - IP-CIDR,110.75.235.0/24,no-resolve
+  - IP-CIDR,110.75.236.0/22,no-resolve
+  - IP-CIDR,110.75.240.0/20,no-resolve
+  - IP-CIDR,110.76.0.0/20,no-resolve
+  - IP-CIDR,110.76.0.0/19,no-resolve
+  - IP-CIDR,110.76.15.0/24,no-resolve
+  - IP-CIDR,110.76.16.0/20,no-resolve
+  - IP-CIDR,110.76.21.0/24,no-resolve
+  - IP-CIDR,110.76.23.0/24,no-resolve
+  - IP-CIDR,110.76.30.0/23,no-resolve
+  - IP-CIDR,110.76.48.0/20,no-resolve
+  - IP-CIDR,110.76.56.0/22,no-resolve
+  - IP-CIDR,110.76.60.0/22,no-resolve
+  - IP-CIDR,203.209.224.0/20,no-resolve
+  - IP-CIDR,203.209.224.0/19,no-resolve
+  - IP-CIDR,203.209.225.0/24,no-resolve
+  - IP-CIDR,203.209.226.0/23,no-resolve
+  - IP-CIDR,203.209.228.0/22,no-resolve
+  - IP-CIDR,203.209.232.0/21,no-resolve
+  - IP-CIDR,203.209.236.0/23,no-resolve
+  - IP-CIDR,203.209.240.0/20,no-resolve
+  - IP-CIDR,203.209.242.0/24,no-resolve
+  - IP-CIDR,203.209.242.0/23,no-resolve
+  - IP-CIDR,203.209.243.0/24,no-resolve
+  - IP-CIDR,203.209.244.0/23,no-resolve
+  - IP-CIDR,203.209.244.0/22,no-resolve
+  - IP-CIDR,203.209.246.0/23,no-resolve
+  - IP-CIDR,203.209.248.0/24,no-resolve
+  - IP-CIDR,203.209.248.0/23,no-resolve
+  - IP-CIDR,203.209.249.0/24,no-resolve
+  - IP-CIDR,203.209.250.0/24,no-resolve
+  - IP-CIDR,203.209.250.0/23,no-resolve
+  - IP-CIDR,203.209.251.0/24,no-resolve
+  - IP-CIDR,203.209.252.0/23,no-resolve
+  - IP-CIDR,203.209.252.0/22,no-resolve
+  - IP-CIDR,203.209.254.0/23,no-resolve
+  - IP-CIDR6,2400:b200::/36,no-resolve
+  - IP-CIDR6,2400:b200::/32,no-resolve
+  - IP-CIDR6,2400:b200:1000::/36,no-resolve
+  - IP-CIDR6,2400:b200:2000::/36,no-resolve
+  - IP-CIDR6,2400:b200:3000::/36,no-resolve
+  - IP-CIDR6,2400:b200:4100::/48,no-resolve
+  - IP-CIDR6,2400:b200:4101::/48,no-resolve
+  - IP-CIDR6,2400:b200:4102::/48,no-resolve
+  - IP-CIDR6,2400:b200:4103::/48,no-resolve
   ## >> 语雀
   - DOMAIN-SUFFIX,nlark.com
   - DOMAIN-SUFFIX,yuque-space.com
