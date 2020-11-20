@@ -2440,6 +2440,10 @@ DOMAIN-SUFFIX,swoo.sh
 DOMAIN-SUFFIX,swoosh.com
 ## > Nodejs
 DOMAIN-SUFFIX,nodejs.org
+## > Notion
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.so
 ## > Nvidia
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
@@ -7340,7 +7344,6 @@ DOMAIN-SUFFIX,nordstromrack.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,notdot.net
 DOMAIN-SUFFIX,notify.io
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,nottinghampost.com
 DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,novelasia.com

@@ -609,7 +609,6 @@ DOMAIN-SUFFIX,openrasp.org.cn
 DOMAIN-SUFFIX,paddlepaddle.org.cn
 DOMAIN-SUFFIX,popincdn.com
 DOMAIN-SUFFIX,pubbcsapp.com
-DOMAIN-SUFFIX,quyaoya.com
 DOMAIN-SUFFIX,qxllq.com
 DOMAIN-SUFFIX,sanguows.com
 DOMAIN-SUFFIX,searchcraft.cn
@@ -2990,6 +2989,24 @@ DOMAIN-SUFFIX,yidianliulan.cn
 DOMAIN-SUFFIX,yidianliulan.com
 ## > Solidot
 DOMAIN-SUFFIX,solidot.org
+## > 随视传媒
+DOMAIN-SUFFIX,91friend.com
+DOMAIN-SUFFIX,adsit.cn
+DOMAIN-SUFFIX,aojiamarly.com
+DOMAIN-SUFFIX,ebaidutv.com
+DOMAIN-SUFFIX,smartsocial.cn
+DOMAIN-SUFFIX,socialjia.com
+DOMAIN-SUFFIX,weibopie.com
+## >> 汇则成
+DOMAIN-SUFFIX,mobhui.cn
+DOMAIN-SUFFIX,quyaoya.cn
+DOMAIN-SUFFIX,quyaoya.com
+## >> 米铺家
+DOMAIN-SUFFIX,mipujia.cn
+DOMAIN-SUFFIX,mipujia.com
+## >> 趣摇
+DOMAIN-SUFFIX,mobhui.com
+DOMAIN-SUFFIX,socialpls.com
 ## > 泰康
 DOMAIN-SUFFIX,12333tc.com
 DOMAIN-SUFFIX,95522.cn
