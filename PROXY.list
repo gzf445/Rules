@@ -2380,6 +2380,7 @@ DOMAIN-SUFFIX,megaup.net
 DOMAIN-SUFFIX,bugzilla.org
 ## >> firefox
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.com.cn
 ## >> mdn
 DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,interactive-examples.mdn.mozilla.net
