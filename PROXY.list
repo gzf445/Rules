@@ -2399,10 +2399,11 @@ DOMAIN-SUFFIX,sentry.prod.mozaws.net
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,docs.rs
 ## >> Mozilla-Crop
+DOMAIN-SUFFIX,mofoprod.net
+DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
-DOMAIN-SUFFIX,mozilla.com
 ## > NaughtyAmerica
 DOMAIN-SUFFIX,naughtyamerica.com
 ## > Naver
