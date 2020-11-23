@@ -3774,9 +3774,7 @@ payload:
   - DOMAIN-SUFFIX,p.store.qq.com
   - DOMAIN-SUFFIX,pcbrowser.dd.qq.com
   - DOMAIN-SUFFIX,pinghot.qq.com
-  - DOMAIN-SUFFIX,pingjs.qq.com
   - DOMAIN-SUFFIX,pingma.qq.com
-  - DOMAIN-SUFFIX,pingtas.qq.com
   - DOMAIN-SUFFIX,pingtcss.qq.com
   - DOMAIN-SUFFIX,detect.mb.qq.com
   - DOMAIN-SUFFIX,pms.mb.qq.com
