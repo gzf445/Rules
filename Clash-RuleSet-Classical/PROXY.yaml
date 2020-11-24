@@ -1805,6 +1805,7 @@ payload:
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
   # >> Whatsapp
+  - DOMAIN-SUFFIX,whatsapp.biz
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
   - IP-CIDR,108.168.176.192/26,no-resolve
