@@ -7,14 +7,14 @@
 | DNS.list              | 常用 DNS                                                                                                           |
 | NTP-service.list      | 常见 NTP 服务列表，路由器可能需要加入 fake-ip-filter                                                               |
 | Adblock.list          | 常见广告域名（广告联盟 等）                                                                                        |
-| Apple.list            | 苹果公司服务, 详见 [Apple.md](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple.md)                  |
+| Apple.list            | 苹果公司服务, 详见 [Apple.md](https://github.com/LM-Firefly/Rules/blob/master/Apple.md)                  |
 | Domestic.list         | 中国大陆常见公司服务                                                                                               |
 | TeamViewer-CIDR.list  | TeamViewer 远程 IP 段 需要直连 才能远程                                                                            |
 | LAN-Special-Apps.list | 局域网特殊应用域名（投屏、广播 等）                                                                                |
 | Video-Crack.list      | 盗版视频解析站                                                                                                     |
 | DMCA-Sensitive.list   | DMCA 敏感域名（主要针对机场审计 tracker、迅雷）                                                                    |
-| Game.list             | 游戏平台, 详见 [Game.md](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game.md)                        |
-| GlobalMedia.list      | 国外常见流媒体服务,详见 [GlobalMedia.md](https://raw.githubusercontent.com/LM-Firefly/Rules/master/GlobalMedia.md) |
+| Game.list             | 游戏平台, 详见 [Game.md](https://github.com/LM-Firefly/Rules/blob/master/Game.md)                        |
+| GlobalMedia.list      | 国外常见流媒体服务,详见 [GlobalMedia.md](https://github.com/LM-Firefly/Rules/blob/master/GlobalMedia.md) |
 | Google.list           | Google 服务                                                                                                        |
 | Microsoft.list        | 微软服务                                                                                                           |
 | Netflix.list          | Netflix 流媒体服务                                                                                                 |
