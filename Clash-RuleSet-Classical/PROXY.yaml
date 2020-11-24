@@ -2269,7 +2269,7 @@ payload:
   - IP-CIDR,110.76.140.0/22,no-resolve
   - IP-CIDR,113.61.104.0/22,no-resolve
   - IP-CIDR,27.0.236.0/22,no-resolve
-# >> Potplayer
+  # >> Potplayer
   - DOMAIN-SUFFIX,daumpotplayer.com
   ## > Kingkonglive
   - DOMAIN-SUFFIX,kingkong.com.tw
@@ -4124,6 +4124,7 @@ payload:
   - DOMAIN-SUFFIX,1jjdg2.vip
   - DOMAIN-SUFFIX,1jsa22.vip
   - DOMAIN-SUFFIX,51dh.site
+  - DOMAIN-SUFFIX,51rmc.com
   - DOMAIN-SUFFIX,520aa.tv
   - DOMAIN-SUFFIX,5278.cc
   - DOMAIN-SUFFIX,52hyse.com
@@ -4133,10 +4134,9 @@ payload:
   - DOMAIN-SUFFIX,721av.com
   - DOMAIN-SUFFIX,7mm.tv
   - DOMAIN-SUFFIX,85tube.com
-  - DOMAIN-SUFFIX,91.51rmc.com
+  - DOMAIN-SUFFIX,91gay.me
+  - DOMAIN-SUFFIX,91porn005.me
   - DOMAIN-SUFFIX,920share.com
-  - DOMAIN-SUFFIX,a.91gay.me
-  - DOMAIN-SUFFIX,a.kslive.tv
   - DOMAIN-SUFFIX,aavs.xyz
   - DOMAIN-SUFFIX,agzy1.com
   - DOMAIN-SUFFIX,aibaobei.me
@@ -4161,15 +4161,15 @@ payload:
   - DOMAIN-SUFFIX,cam4.com
   - DOMAIN-SUFFIX,cslpldyb.me
   - DOMAIN-SUFFIX,dkk37.com
-  - DOMAIN-SUFFIX,download.91porn005.me
-  - DOMAIN-SUFFIX,download.i91av.org
   - DOMAIN-SUFFIX,dvh30n.vip
   - DOMAIN-SUFFIX,flirt4free.com
   - DOMAIN-SUFFIX,follasian.com
   - DOMAIN-SUFFIX,gaypad.net
   - DOMAIN-SUFFIX,gouri.xyz
+  - DOMAIN-SUFFIX,hanime.tv
   - DOMAIN-SUFFIX,hpjav.tv
   - DOMAIN-SUFFIX,hsxhr.cc
+  - DOMAIN-SUFFIX,i91av.org
   - DOMAIN-SUFFIX,ichineseporn.com
   - DOMAIN-SUFFIX,iijav.com
   - DOMAIN-SUFFIX,immxd.com
@@ -4199,6 +4199,7 @@ payload:
   - DOMAIN-SUFFIX,johren.net
   - DOMAIN-SUFFIX,kissjav.com
   - DOMAIN-SUFFIX,kphimsex.net
+  - DOMAIN-SUFFIX,kslive.tv
   - DOMAIN-SUFFIX,love7.xyz
   - DOMAIN-SUFFIX,lp99.pw
   - DOMAIN-SUFFIX,lsnzxzy1.com
@@ -6480,7 +6481,6 @@ payload:
   - DOMAIN-SUFFIX,hahlo.com
   - DOMAIN-SUFFIX,hakkatv.org.tw
   - DOMAIN-SUFFIX,handcraftedsoftware.org
-  - DOMAIN-SUFFIX,hanime.tv
   - DOMAIN-SUFFIX,hanminzu.org
   - DOMAIN-SUFFIX,hanunyi.com
   - DOMAIN-SUFFIX,hao.news
