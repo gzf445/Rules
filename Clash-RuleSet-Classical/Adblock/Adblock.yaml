@@ -1128,7 +1128,6 @@ payload:
   - DOMAIN-SUFFIX,shows.21cn.com
   - DOMAIN-SUFFIX,analytics.21cn.com
   ## > 中国联通-ads
-  - DOMAIN-SUFFIX,smartad.10010.com
   - DOMAIN-SUFFIX,bjdnserror1.wo.com.cn
   - DOMAIN-SUFFIX,bjdnserror2.wo.com.cn
   - DOMAIN-SUFFIX,bjdnserror3.wo.com.cn
