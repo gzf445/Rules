@@ -50323,10 +50323,3 @@ DOMAIN-KEYWORD,epochtimes
 DOMAIN-KEYWORD,fenxi
 DOMAIN-KEYWORD,logger
 DOMAIN-KEYWORD,traffic
-## > Crack
-# >> Connectify
-DOMAIN-SUFFIX,updates.connectify.me
-DOMAIN-SUFFIX,activate.connectify.me
-DOMAIN-SUFFIX,d1.connectify.me
-DOMAIN-SUFFIX,d2.connectify.me
-DOMAIN-SUFFIX,d3.connectify.me
