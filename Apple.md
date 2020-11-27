@@ -1,6 +1,6 @@
 🍎 Apple
 
-# [AppleDev](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleDev.list)
+# [AppleDev](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleDev.list)
 
 ## >Apple Dev
 
@@ -32,7 +32,7 @@
 
 ## > WebKit
 
-# [AppleFirmware](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleFirmware.list)
+# [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleFirmware.list)
 
 ## > Apple ID
 
@@ -48,7 +48,7 @@
 
 ## > macOS
 
-# [AppleHardware](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleHardware.list)
+# [AppleHardware](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleHardware.list)
 
 ## > Apple Care
 
@@ -66,7 +66,7 @@
 
 ## > Apple Watch
 
-# [AppleMedia](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleMedia.list)
+# [AppleMedia](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleMedia.list)
 
 ## > Apple Music
 
@@ -80,4 +80,4 @@
 
 ## > iMovie
 
-# [Beats](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/Beats.list)
+# [Beats](https://github.com/LM-Firefly/Rules/blob/master/Apple/Beats.list)

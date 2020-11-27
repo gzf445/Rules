@@ -1,6 +1,6 @@
 🎮 游戏服务
 
-# [Blizzard](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Blizzard.list)
+# [Blizzard](https://github.com/LM-Firefly/Rules/blob/master/Game/Blizzard.list)
 
 ## > Battle.Net
 
@@ -18,7 +18,7 @@
 
 ## > World of Warcraft
 
-# [EA](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/EA.list)
+# [EA](https://github.com/LM-Firefly/Rules/blob/master/Game/EA.list)
 
 ## > Origin
 
@@ -76,13 +76,13 @@
 
 ## > XDS
 
-# [Epicgames](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Epicgames.list)
+# [Epicgames](https://github.com/LM-Firefly/Rules/blob/master/Game/Epicgames.list)
 
-# [Garena](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Garena.list)
+# [Garena](https://github.com/LM-Firefly/Rules/blob/master/Game/Garena.list)
 
-# [Gog](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Gog.list)
+# [Gog](https://github.com/LM-Firefly/Rules/blob/master/Game/Gog.list)
 
-# [Nintendo](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Nintendo.list)
+# [Nintendo](https://github.com/LM-Firefly/Rules/blob/master/Game/Nintendo.list)
 
 ## > Animal Croosing 动物森友会
 
@@ -102,13 +102,13 @@
 
 ## > Xenoblade Chronicles
 
-# [OP](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/OP.list)
+# [OP](https://github.com/LM-Firefly/Rules/blob/master/Game/OP.list)
 
-# [Playstation](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/PlayStation.list)
+# [Playstation](https://github.com/LM-Firefly/Rules/blob/master/Game/PlayStation.list)
 
-# [Purikonejp](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Purikonejp.list)
+# [Purikonejp](https://github.com/LM-Firefly/Rules/blob/master/Game/Purikonejp.list)
 
-# [Riot](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Riot.list)
+# [Riot](https://github.com/LM-Firefly/Rules/blob/master/Game/Riot.list)
 
 ## > League of Lengends
 
@@ -116,15 +116,15 @@
 
 ## > Riot Forge
 
-# [Rockstar](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Rockstar.list)
+# [Rockstar](https://github.com/LM-Firefly/Rules/blob/master/Game/Rockstar.list)
 
-# [Steam](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Steam.list)
+# [Steam](https://github.com/LM-Firefly/Rules/blob/master/Game/Steam.list)
 
-# [UBI](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/UBI.list)
+# [UBI](https://github.com/LM-Firefly/Rules/blob/master/Game/UBI.list)
 
 ## > UPlay
 
-# [Xbox](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Xbox.list)
+# [Xbox](https://github.com/LM-Firefly/Rules/blob/master/Game/Xbox.list)
 
 ## > Mojang
 

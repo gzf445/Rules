@@ -1,6 +1,6 @@
 🍎 Apple
 
-# [AppleDev](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Apple/AppleDev.yaml)
+# [AppleDev](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleDev.yaml)
 
 ## >Apple Dev
 
@@ -32,7 +32,7 @@
 
 ## > WebKit
 
-# [AppleFirmware](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Apple/AppleFirmware.yaml)
+# [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleFirmware.yaml)
 
 ## > Apple ID
 
@@ -48,7 +48,7 @@
 
 ## > macOS
 
-# [AppleHardware](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Apple/AppleHardware.yaml)
+# [AppleHardware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleHardware.yaml)
 
 ## > Apple Care
 
@@ -66,7 +66,7 @@
 
 ## > Apple Watch
 
-# [AppleMedia](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Apple/AppleMedia.yaml)
+# [AppleMedia](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleMedia.yaml)
 
 ## > Apple Music
 
@@ -80,4 +80,4 @@
 
 ## > iMovie
 
-# [Beats](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Apple/Beats.yaml)
+# [Beats](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/Beats.yaml)

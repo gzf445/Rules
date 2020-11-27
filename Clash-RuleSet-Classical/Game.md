@@ -1,6 +1,6 @@
 🎮 游戏服务
 
-# [Blizzard](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Blizzard.yaml)
+# [Blizzard](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Blizzard.yaml)
 
 ## > Battle.Net
 
@@ -18,7 +18,7 @@
 
 ## > World of Warcraft
 
-# [EA](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/EA.yaml)
+# [EA](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/EA.yaml)
 
 ## > Origin
 
@@ -76,13 +76,13 @@
 
 ## > XDS
 
-# [Epicgames](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Epicgames.yaml)
+# [Epicgames](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Epicgames.yaml)
 
-# [Garena](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Garena.yaml)
+# [Garena](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Garena.yaml)
 
-# [Gog](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Gog.yaml)
+# [Gog](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Gog.yaml)
 
-# [Nintendo](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Nintendo.yaml)
+# [Nintendo](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Nintendo.yaml)
 
 ## > Animal Croosing 动物森友会
 
@@ -102,13 +102,13 @@
 
 ## > Xenoblade Chronicles
 
-# [OP](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/OP.yaml)
+# [OP](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/OP.yaml)
 
-# [Playstation](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/PlayStation.yaml)
+# [Playstation](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/PlayStation.yaml)
 
-# [Purikonejp](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Purikonejp.yaml)
+# [Purikonejp](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Purikonejp.yaml)
 
-# [Riot](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Riot.yaml)
+# [Riot](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Riot.yaml)
 
 ## > League of Lengends
 
@@ -116,15 +116,15 @@
 
 ## > Riot Forge
 
-# [Rockstar](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Rockstar.yaml)
+# [Rockstar](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Rockstar.yaml)
 
-# [Steam](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Steam.yaml)
+# [Steam](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Steam.yaml)
 
-# [UBI](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/UBI.yaml)
+# [UBI](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/UBI.yaml)
 
 ## > UPlay
 
-# [Xbox](https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Game/Xbox.yaml)
+# [Xbox](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Xbox.yaml)
 
 ## > Mojang
 
