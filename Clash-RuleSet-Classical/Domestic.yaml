@@ -1312,11 +1312,15 @@ payload:
   ## > 滴滴
   - DOMAIN-SUFFIX,apptaxi.com.cn
   - DOMAIN-SUFFIX,cxyule.com
+  - DOMAIN-SUFFIX,didi-food.com
   - DOMAIN-SUFFIX,didi.cn
   - DOMAIN-SUFFIX,didi.xin
   - DOMAIN-SUFFIX,didialift.com
   - DOMAIN-SUFFIX,didiapp.net.cn
+  - DOMAIN-SUFFIX,didiaustralia.blog
+  - DOMAIN-SUFFIX,didichuxing.com
   - DOMAIN-SUFFIX,didiglobal.com
+  - DOMAIN-SUFFIX,didimobility.co.jp
   - DOMAIN-SUFFIX,didimobility.com
   - DOMAIN-SUFFIX,didiopenapi.com
   - DOMAIN-SUFFIX,didiqiche.com
@@ -1331,10 +1335,8 @@ payload:
   - DOMAIN-SUFFIX,udache.com
   - DOMAIN-SUFFIX,xiaojuchefu.cn
   - DOMAIN-SUFFIX,xiaojukeji.com
-  - DOMAIN-SUFFIX,didi-food.com
-  - DOMAIN-SUFFIX,didiaustralia.blog
-  - DOMAIN-SUFFIX,didichuxing.com
-  - DOMAIN-SUFFIX,didimobility.co.jp
+  ## > 顶象
+  - DOMAIN-SUFFIX,dingxiang-inc.com
   ## > 第一弹
   - DOMAIN-SUFFIX,diyidan.com
   - DOMAIN-SUFFIX,diyidan.net
@@ -5698,7 +5700,6 @@ payload:
   - DOMAIN-SUFFIX,dingdiansk.com
   - DOMAIN-SUFFIX,dingdianxs.com
   - DOMAIN-SUFFIX,dingdianzw.com
-  - DOMAIN-SUFFIX,dingxiang-inc.com
   - DOMAIN-SUFFIX,diopic.net
   - DOMAIN-SUFFIX,diyibanzhu5.com
   - DOMAIN-SUFFIX,diyibanzhu7.net
