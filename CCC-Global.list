@@ -9939,7 +9939,6 @@ IP-CIDR6,2001:b032:fa00::/39,no-resolve
 IP-CIDR6,2001:b032:fc00::/39,no-resolve
 IP-CIDR6,2001:b032:fe00::/39,no-resolve
 # > Verizon Media Platform
-DOMAIN-SUFFIX,verizondigitalmedia.com
 IP-CIDR,5.104.64.0/24,no-resolve
 IP-CIDR,5.104.65.0/24,no-resolve
 IP-CIDR,5.104.66.0/24,no-resolve

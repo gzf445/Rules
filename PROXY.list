@@ -4657,6 +4657,14 @@ DOMAIN-SUFFIX,verisign.tw
 DOMAIN-SUFFIX,verisign.us
 DOMAIN-SUFFIX,verisign.vn
 DOMAIN-SUFFIX,verisigninc.com
+## > Verizon
+DOMAIN-SUFFIX,verizon.com
+DOMAIN-SUFFIX,verizon.net
+DOMAIN-SUFFIX,verizondigitalmedia.com
+DOMAIN-SUFFIX,verizonmedia.com
+DOMAIN-SUFFIX,verizonwireless.com
+DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,yourdigitalrebatecenter.com
 ## > VISA
 DOMAIN-SUFFIX,visa.be
 DOMAIN-SUFFIX,visa.ca
@@ -10386,8 +10394,6 @@ DOMAIN-SUFFIX,venetianmacao.com
 DOMAIN-SUFFIX,venturebeat.com
 DOMAIN-SUFFIX,ventureswell.com
 DOMAIN-SUFFIX,veoh.com
-DOMAIN-SUFFIX,verizon.net
-DOMAIN-SUFFIX,verizonwireless.com
 DOMAIN-SUFFIX,vermonttibet.org
 DOMAIN-SUFFIX,versavpn.com
 DOMAIN-SUFFIX,verybs.com
@@ -10490,7 +10496,6 @@ DOMAIN-SUFFIX,vtunnel.com
 DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,vultryhw.com
-DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,w.sns.ly
 DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,w3schools.com
