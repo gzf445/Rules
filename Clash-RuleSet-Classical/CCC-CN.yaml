@@ -2982,10 +2982,6 @@ payload:
   - IP-CIDR,223.252.212.0/24,no-resolve
   - IP-CIDR,223.252.221.0/24,no-resolve
   - IP-CIDR,223.252.222.0/24,no-resolve
-  # > 星域云
-  - DOMAIN-SUFFIX,0101cdn.com
-  - DOMAIN-SUFFIX,xycdn.com
-  - DOMAIN-SUFFIX,xycloud.com
   # > YunFanJiaSu
   - DOMAIN-SUFFIX,mogecloud.cn
   - DOMAIN-SUFFIX,mogecloud.com
