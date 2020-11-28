@@ -1338,6 +1338,13 @@ DOMAIN-SUFFIX,canonproprinters.com
 DOMAIN-SUFFIX,change.org
 ## > Chinapower
 DOMAIN-SUFFIX,chinapower.csis.org
+## > CHT (中华电信)
+DOMAIN-SUFFIX,cht.com.tw
+## >> HiNet
+DOMAIN-SUFFIX,hinet.net
+## >> Litv
+DOMAIN-SUFFIX,litv.tv
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 ## > Cisco
 DOMAIN-SUFFIX,.cisco
 DOMAIN-SUFFIX,academynetriders.com
@@ -7544,7 +7551,6 @@ DOMAIN-SUFFIX,himalayan-foundation.org
 DOMAIN-SUFFIX,himalayanglacier.com
 DOMAIN-SUFFIX,himemix.com
 DOMAIN-SUFFIX,himemix.net
-DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,hitbtc.com
 DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,hiwifi.com
