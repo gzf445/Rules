@@ -3402,6 +3402,10 @@ DOMAIN-SUFFIX,deepl.com
 ## > Linkedin
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
+## > Live Person
+DOMAIN-SUFFIX,liveperson.com
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
 ## > Logitech
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logicool.co.jp

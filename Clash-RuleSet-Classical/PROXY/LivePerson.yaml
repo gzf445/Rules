@@ -1,5 +1,5 @@
 payload:
-# > Live Person
-  - DOMAIN-SUFFIX,lpsnmedia.net
+  ## > Live Person
   - DOMAIN-SUFFIX,liveperson.com
   - DOMAIN-SUFFIX,liveperson.net
+  - DOMAIN-SUFFIX,lpsnmedia.net

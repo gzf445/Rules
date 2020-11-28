@@ -9938,10 +9938,6 @@ IP-CIDR6,2001:b032:f800::/39,no-resolve
 IP-CIDR6,2001:b032:fa00::/39,no-resolve
 IP-CIDR6,2001:b032:fc00::/39,no-resolve
 IP-CIDR6,2001:b032:fe00::/39,no-resolve
-# > Live Person
-DOMAIN-SUFFIX,lpsnmedia.net
-DOMAIN-SUFFIX,liveperson.com
-DOMAIN-SUFFIX,liveperson.net
 # > Verizon Media Platform
 DOMAIN-SUFFIX,verizondigitalmedia.com
 IP-CIDR,5.104.64.0/24,no-resolve
