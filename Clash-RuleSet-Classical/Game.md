@@ -1,131 +1,131 @@
 🎮 游戏服务
 
-# [Blizzard](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Blizzard.yaml)
+- # [Blizzard](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Blizzard.yaml)
 
-## > Battle.Net
+  - ## Battle.Net
 
-## > Diablo
+  - ## Diablo
 
-## > Hearthstone
+  - ## Hearthstone
 
-## > Hero of the Storm
+  - ## Hero of the Storm
 
-## > Overwatch
+  - ## Overwatch
 
-## > Starcraft
+  - ## Starcraft
 
-## > Warcraft
+  - ## Warcraft
 
-## > World of Warcraft
+  - ## World of Warcraft
 
-# [EA](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/EA.yaml)
+- # [EA](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/EA.yaml)
 
-## > Origin
+  - ## Origin
 
-## > Anthem
+  - ## Anthem
 
-## > Apex Legends
+  - ## Apex Legends
 
-## > Battle Log / Battlefield
+  - ## Battle Log / Battlefield
 
-## > Bioware
+  - ## Bioware
 
-## > Broadsword
+  - ## Broadsword
 
-## > Command and Conquer
+  - ## Command and Conquer
 
-## > Dark Age of Camelot
+  - ## Dark Age of Camelot
 
-## > Dead Space
+  - ## Dead Space
 
-## > DICE
+  - ## DICE
 
-## > Dragon Age
+  - ## Dragon Age
 
-## > dungeonkeeper
+  - ## dungeonkeeper
 
-## > FIFA
+  - ## FIFA
 
-## > Frost Bite
+  - ## Frost Bite
 
-## > Industrial Toys
+  - ## Industrial Toys
 
-## > Mass Effect
+  - ## Mass Effect
 
-## > Mirror's Edge
+  - ## Mirror's Edge
 
-## > Need For Speed
+  - ## Need For Speed
 
-## > Plants VS Zombies
+  - ## Plants VS Zombies
 
-## > Sea of Solitude
+  - ## Sea of Solitude
 
-## > Simcity
+  - ## Simcity
 
-## > Skate
+  - ## Skate
 
-## > SPEARHEAD
+  - ## SPEARHEAD
 
-## > Star Wars
+  - ## Star Wars
 
-## > The Sims
+  - ## The Sims
 
-## > Titan Fall
+  - ## Titan Fall
 
-## > Ultima Online
+  - ## Ultima Online
 
-## > XDS
+  - ## XDS
 
-# [Epicgames](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Epicgames.yaml)
+- # [Epicgames](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Epicgames.yaml)
 
-# [Garena](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Garena.yaml)
+- # [Garena](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Garena.yaml)
 
-# [Gog](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Gog.yaml)
+- # [Gog](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Gog.yaml)
 
-# [Nintendo](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Nintendo.yaml)
+- # [Nintendo](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Nintendo.yaml)
 
-## > Animal Croosing 动物森友会
+  - ## Animal Croosing 动物森友会
 
-## > Donkey Kong Country
+  - ## Donkey Kong Country
 
-## > Fire Emblem
+  - ## Fire Emblem
 
-## > Pokemon
+  - ## Pokemon
 
-## > Splatoon 2 Tournament
+  - ## Splatoon 2 Tournament
 
-## > Star Fox
+  - ## Star Fox
 
-## > Super Mario
+  - ## Super Mario
 
-## > Wii
+  - ## Wii
 
-## > Xenoblade Chronicles
+  - ## Xenoblade Chronicles
 
-# [OP](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/OP.yaml)
+- # [OP](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/OP.yaml)
 
-# [Playstation](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/PlayStation.yaml)
+- # [Playstation](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/PlayStation.yaml)
 
-# [Purikonejp](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Purikonejp.yaml)
+- # [Purikonejp](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Purikonejp.yaml)
 
-# [Riot](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Riot.yaml)
+- # [Riot](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Riot.yaml)
 
-## > League of Lengends
+  - ## League of Lengends
 
-## > Valorant
+  - ## Valorant
 
-## > Riot Forge
+  - ## Riot Forge
 
-# [Rockstar](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Rockstar.yaml)
+- # [Rockstar](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Rockstar.yaml)
 
-# [Steam](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Steam.yaml)
+- # [Steam](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Steam.yaml)
 
-# [UBI](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/UBI.yaml)
+- # [UBI](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/UBI.yaml)
 
-## > UPlay
+  - ## UPlay
 
-# [Xbox](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Xbox.yaml)
+- # [Xbox](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Game/Xbox.yaml)
 
-## > Mojang
+  - ## Mojang
 
-## > Bethesda
+  - ## Bethesda

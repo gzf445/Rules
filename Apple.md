@@ -1,83 +1,83 @@
 🍎 Apple
 
-# [AppleDev](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleDev.list)
+- # [AppleDev](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleDev.list)
 
-## >Apple Dev
+  - ## Apple Dev
 
-## > Calendar and Contact Server
+  - ## Calendar and Contact Server
 
-## > CloudKit
+  - ## CloudKit
 
-## > CUPS
+  - ## CUPS
 
-## > Developer
+  - ## Developer
 
-## > FoundationDB
+  - ## FoundationDB
 
-## > macOS forge
+  - ## macOS forge
 
-## > MacRuby
+  - ## MacRuby
 
-## > MapKit
+  - ## MapKit
 
-## > Playgrounds
+  - ## Playgrounds
 
-## > Research & Care
+  - ## Research & Care
 
-## > ServiceTalk
+  - ## ServiceTalk
 
-## > Swift
+  - ## Swift
 
-## > Unity
+  - ## Unity
 
-## > WebKit
+  - ## WebKit
 
-# [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleFirmware.list)
+- # [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleFirmware.list)
 
-## > Apple ID
+  - ## Apple ID
 
-## > Apple One
+  - ## Apple One
 
-## > Apple Pay
+  - ## Apple Pay
 
-## > App Store
+  - ## App Store
 
-## > iCloud
+  - ## iCloud
 
-## > iTunes
+  - ## iTunes
 
-## > macOS
+  - ## macOS
 
-# [AppleHardware](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleHardware.list)
+- # [AppleHardware](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleHardware.list)
 
-## > Apple Care
+  - ## Apple Care
 
-## > Apple Store
+  - ## Apple Store
 
-## > iMac
+  - ## iMac
 
-## > iPad
+  - ## iPad
 
-## > iPhone
+  - ## iPhone
 
-## > iPod
+  - ## iPod
 
-## > MacBook
+  - ## MacBook
 
-## > Apple Watch
+  - ## Apple Watch
 
-# [AppleMedia](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleMedia.list)
+- # [AppleMedia](https://github.com/LM-Firefly/Rules/blob/master/Apple/AppleMedia.list)
 
-## > Apple Music
+  - ## Apple Music
 
-## > Apple News
+  - ## Apple News
 
-## > Apple TV
+  - ## Apple TV
 
-## > iBook
+  - ## iBook
 
-## > iPhoto
+  - ## iPhoto
 
-## > iMovie
+  - ## iMovie
 
-# [Beats](https://github.com/LM-Firefly/Rules/blob/master/Apple/Beats.list)
+- # [Beats](https://github.com/LM-Firefly/Rules/blob/master/Apple/Beats.list)

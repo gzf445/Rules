@@ -1,149 +1,149 @@
 🌍 GlobalMedia
 
-# [AbemaTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AbemaTV.list)
+- # [AbemaTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AbemaTV.list)
 
-# [AFP](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AFP.list)
+- # [AFP](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AFP.list)
 
-# [All4](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/All4.list)
+- # [All4](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/All4.list)
 
-# [Amazon Prime Video](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AmazonPrimeVideo.list)
+- # [Amazon Prime Video](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AmazonPrimeVideo.list)
 
-# [Americasvoice](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Americasvoice.list)
+- # [Americasvoice](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Americasvoice.list)
 
-# [AppleDaily](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AppleDaily.list)
+- # [AppleDaily](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/AppleDaily.list)
 
-# [ATTWatchTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ATTWatchTV.list)
+- # [ATTWatchTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ATTWatchTV.list)
 
-# [Bahamut](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Bahamut.list)
+- # [Bahamut](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Bahamut.list)
 
-# [BBC](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/BBC.list)
+- # [BBC](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/BBC.list)
 
-# [BoXun](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/BoXun.list)
+- # [BoXun](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/BoXun.list)
 
-# [CableTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CableTV.list)
+- # [CableTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CableTV.list)
 
-# [CBS](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CBS.list)
+- # [CBS](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CBS.list)
 
-## > Paramount
+  - ## Paramount
 
-# [CNBC](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CNBC.list)
+- # [CNBC](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CNBC.list)
 
-# [CNN](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CNN.list)
+- # [CNN](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/CNN.list)
 
-# [Dailymotion](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Dailymotion.list)
+- # [Dailymotion](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Dailymotion.list)
 
-# [DAZN](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/DAZN.list)
+- # [DAZN](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/DAZN.list)
 
-# [Deezer](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Deezer.list)
+- # [Deezer](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Deezer.list)
 
-# [Disney](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Disney.list)
+- # [Disney](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Disney.list)
 
-## > ABC
+  - ## ABC
 
-## > Espn
+  - ## Espn
 
-## > Marvel
+  - ## Marvel
 
-## > Nationalgeographic
+  - ## Nationalgeographic
 
-# [EncoreTVB](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/EncoreTVB.list)
+- # [EncoreTVB](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/EncoreTVB.list)
 
-# [Fox](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Fox.list)
+- # [Fox](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Fox.list)
 
-## > Bento Box Entertainment
+  - ## Bento Box Entertainment
 
-## > KTVU FOX 2
+  - ## KTVU FOX 2
 
-# [HBO NOW & HBO GO HKG](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/HBO.list)
+- # [HBO NOW & HBO GO HKG](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/HBO.list)
 
-# [Huffpost](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Huffpost.list)
+- # [Huffpost](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Huffpost.list)
 
-# [Hulu](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Hulu.list)
+- # [Hulu](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Hulu.list)
 
-# [华文电视](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/HWTV.list)
+- # [华文电视](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/HWTV.list)
 
-# [iTalkBB](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/iTalkBB.list)
+- # [iTalkBB](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/iTalkBB.list)
 
-# [ITV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ITV.list)
+- # [ITV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ITV.list)
 
-# [Japonx](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Japonx.list)
+- # [Japonx](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Japonx.list)
 
-# [JOOX](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/JOOX.list)
+- # [JOOX](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/JOOX.list)
 
-# [Kakao](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Kakao.list)
+- # [Kakao](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Kakao.list)
 
-## > Potplayer
+  - ## Potplayer
 
-# [Kantv](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Kantv.list)
+- # [Kantv](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Kantv.list)
 
-# [KKBOX](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/KKBOX.list)
+- # [KKBOX](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/KKBOX.list)
 
-# [KKTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/KKTV.list)
+- # [KKTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/KKTV.list)
 
-# [Litv](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LiTV.list)
+- # [Litv](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LiTV.list)
 
-# [LineTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LineTV.list)
+- # [LineTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LineTV.list)
 
-# [LondonReal](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LondonReal.list)
+- # [LondonReal](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LondonReal.list)
 
-# [MeWatch](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MeWatch.list)
+- # [MeWatch](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MeWatch.list)
 
-# [MOOV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MOOV.list)
+- # [MOOV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MOOV.list)
 
-# [My5](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/My5.list)
+- # [My5](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/My5.list)
 
-# [MyTV SUPER](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MyTVSUPER.list)
+- # [MyTV SUPER](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MyTVSUPER.list)
 
-# [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Niconico.list)
+- # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Niconico.list)
 
-# [Nikkei](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Nikkei.list)
+- # [Nikkei](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Nikkei.list)
 
-# [NYPost](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/NYPost.list)
+- # [NYPost](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/NYPost.list)
 
-# [NY Times](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/NYTimes.list)
+- # [NY Times](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/NYTimes.list)
 
-# [Pandora](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Pandora.list)
+- # [Pandora](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Pandora.list)
 
-# [PandoraTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/PandoraTV.list)
+- # [PandoraTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/PandoraTV.list)
 
-# [PBS](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/PBS.list)
+- # [PBS](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/PBS.list)
 
-# [Pornhub](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Pornhub.list)
+- # [Pornhub](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Pornhub.list)
 
-# [Qobuz](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Qobuz.list)
+- # [Qobuz](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Qobuz.list)
 
-# [RTHK 香港电台](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/RTHK.list)
+- # [RTHK 香港电台](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/RTHK.list)
 
-# [Sky GO](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/SkyGO.list)
+- # [Sky GO](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/SkyGO.list)
 
-# [Sony](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Sony.list)
+- # [Sony](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Sony.list)
 
-# [SoundCloud](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/SoundCloud.list)
+- # [SoundCloud](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/SoundCloud.list)
 
-# [Spotify](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Spotify.list)
+- # [Spotify](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Spotify.list)
 
-# [台湾好](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TaiWanGood.list)
+- # [台湾好](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TaiWanGood.list)
 
-# [TIDAL](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TIDAL.list)
+- # [TIDAL](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TIDAL.list)
 
-# [TikTok](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TikTok.list)
+- # [TikTok](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TikTok.list)
 
-# [Vidol TV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/VidolTV.list)
+- # [Vidol TV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/VidolTV.list)
 
-# [Viki](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Viki.list)
+- # [Viki](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Viki.list)
 
-# [Vimeo](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Vimeo.list)
+- # [Vimeo](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Vimeo.list)
 
-# [ViuTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ViuTV.list)
+- # [ViuTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ViuTV.list)
 
-# [VOA](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/VOA.list)
+- # [VOA](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/VOA.list)
 
-# [WeTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/WeTV.list)
+- # [WeTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/WeTV.list)
 
-## > iflix
+  - ## iflix
 
-# [Voxmedia](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Voxmedia.list)
+- # [Voxmedia](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Voxmedia.list)
 
-# [Youtube](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/YouTube.list)
+- # [Youtube](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/YouTube.list)
 
-# [ZeeTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ZeeTV.list)
+- # [ZeeTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/ZeeTV.list)

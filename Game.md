@@ -1,131 +1,131 @@
 🎮 游戏服务
 
-# [Blizzard](https://github.com/LM-Firefly/Rules/blob/master/Game/Blizzard.list)
+- # [Blizzard](https://github.com/LM-Firefly/Rules/blob/master/Game/Blizzard.list)
 
-## > Battle.Net
+  - ## Battle.Net
 
-## > Diablo
+  - ## Diablo
 
-## > Hearthstone
+  - ## Hearthstone
 
-## > Hero of the Storm
+  - ## Hero of the Storm
 
-## > Overwatch
+  - ## Overwatch
 
-## > Starcraft
+  - ## Starcraft
 
-## > Warcraft
+  - ## Warcraft
 
-## > World of Warcraft
+  - ## World of Warcraft
 
-# [EA](https://github.com/LM-Firefly/Rules/blob/master/Game/EA.list)
+- # [EA](https://github.com/LM-Firefly/Rules/blob/master/Game/EA.list)
 
-## > Origin
+  - ## Origin
 
-## > Anthem
+  - ## Anthem
 
-## > Apex Legends
+  - ## Apex Legends
 
-## > Battle Log / Battlefield
+  - ## Battle Log / Battlefield
 
-## > Bioware
+  - ## Bioware
 
-## > Broadsword
+  - ## Broadsword
 
-## > Command and Conquer
+  - ## Command and Conquer
 
-## > Dark Age of Camelot
+  - ## Dark Age of Camelot
 
-## > Dead Space
+  - ## Dead Space
 
-## > DICE
+  - ## DICE
 
-## > Dragon Age
+  - ## Dragon Age
 
-## > dungeonkeeper
+  - ## dungeonkeeper
 
-## > FIFA
+  - ## FIFA
 
-## > Frost Bite
+  - ## Frost Bite
 
-## > Industrial Toys
+  - ## Industrial Toys
 
-## > Mass Effect
+  - ## Mass Effect
 
-## > Mirror's Edge
+  - ## Mirror's Edge
 
-## > Need For Speed
+  - ## Need For Speed
 
-## > Plants VS Zombies
+  - ## Plants VS Zombies
 
-## > Sea of Solitude
+  - ## Sea of Solitude
 
-## > Simcity
+  - ## Simcity
 
-## > Skate
+  - ## Skate
 
-## > SPEARHEAD
+  - ## SPEARHEAD
 
-## > Star Wars
+  - ## Star Wars
 
-## > The Sims
+  - ## The Sims
 
-## > Titan Fall
+  - ## Titan Fall
 
-## > Ultima Online
+  - ## Ultima Online
 
-## > XDS
+  - ## XDS
 
-# [Epicgames](https://github.com/LM-Firefly/Rules/blob/master/Game/Epicgames.list)
+- # [Epicgames](https://github.com/LM-Firefly/Rules/blob/master/Game/Epicgames.list)
 
-# [Garena](https://github.com/LM-Firefly/Rules/blob/master/Game/Garena.list)
+- # [Garena](https://github.com/LM-Firefly/Rules/blob/master/Game/Garena.list)
 
-# [Gog](https://github.com/LM-Firefly/Rules/blob/master/Game/Gog.list)
+- # [Gog](https://github.com/LM-Firefly/Rules/blob/master/Game/Gog.list)
 
-# [Nintendo](https://github.com/LM-Firefly/Rules/blob/master/Game/Nintendo.list)
+- # [Nintendo](https://github.com/LM-Firefly/Rules/blob/master/Game/Nintendo.list)
 
-## > Animal Croosing 动物森友会
+  - ## Animal Croosing 动物森友会
 
-## > Donkey Kong Country
+  - ## Donkey Kong Country
 
-## > Fire Emblem
+  - ## Fire Emblem
 
-## > Pokemon
+  - ## Pokemon
 
-## > Splatoon 2 Tournament
+  - ## Splatoon 2 Tournament
 
-## > Star Fox
+  - ## Star Fox
 
-## > Super Mario
+  - ## Super Mario
 
-## > Wii
+  - ## Wii
 
-## > Xenoblade Chronicles
+  - ## Xenoblade Chronicles
 
-# [OP](https://github.com/LM-Firefly/Rules/blob/master/Game/OP.list)
+- # [OP](https://github.com/LM-Firefly/Rules/blob/master/Game/OP.list)
 
-# [Playstation](https://github.com/LM-Firefly/Rules/blob/master/Game/PlayStation.list)
+- # [Playstation](https://github.com/LM-Firefly/Rules/blob/master/Game/PlayStation.list)
 
-# [Purikonejp](https://github.com/LM-Firefly/Rules/blob/master/Game/Purikonejp.list)
+- # [Purikonejp](https://github.com/LM-Firefly/Rules/blob/master/Game/Purikonejp.list)
 
-# [Riot](https://github.com/LM-Firefly/Rules/blob/master/Game/Riot.list)
+- # [Riot](https://github.com/LM-Firefly/Rules/blob/master/Game/Riot.list)
 
-## > League of Lengends
+  - ## League of Lengends
 
-## > Valorant
+  - ## Valorant
 
-## > Riot Forge
+  - ## Riot Forge
 
-# [Rockstar](https://github.com/LM-Firefly/Rules/blob/master/Game/Rockstar.list)
+- # [Rockstar](https://github.com/LM-Firefly/Rules/blob/master/Game/Rockstar.list)
 
-# [Steam](https://github.com/LM-Firefly/Rules/blob/master/Game/Steam.list)
+- # [Steam](https://github.com/LM-Firefly/Rules/blob/master/Game/Steam.list)
 
-# [UBI](https://github.com/LM-Firefly/Rules/blob/master/Game/UBI.list)
+- # [UBI](https://github.com/LM-Firefly/Rules/blob/master/Game/UBI.list)
 
-## > UPlay
+  - ## UPlay
 
-# [Xbox](https://github.com/LM-Firefly/Rules/blob/master/Game/Xbox.list)
+- # [Xbox](https://github.com/LM-Firefly/Rules/blob/master/Game/Xbox.list)
 
-## > Mojang
+  - ## Mojang
 
-## > Bethesda
+  - ## Bethesda

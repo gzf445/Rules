@@ -1,83 +1,83 @@
 🍎 Apple
 
-# [AppleDev](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleDev.yaml)
+- # [AppleDev](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleDev.yaml)
 
-## >Apple Dev
+  - ## Apple Dev
 
-## > Calendar and Contact Server
+  - ## Calendar and Contact Server
 
-## > CloudKit
+  - ## CloudKit
 
-## > CUPS
+  - ## CUPS
 
-## > Developer
+  - ## Developer
 
-## > FoundationDB
+  - ## FoundationDB
 
-## > macOS forge
+  - ## macOS forge
 
-## > MacRuby
+  - ## MacRuby
 
-## > MapKit
+  - ## MapKit
 
-## > Playgrounds
+  - ## Playgrounds
 
-## > Research & Care
+  - ## Research & Care
 
-## > ServiceTalk
+  - ## ServiceTalk
 
-## > Swift
+  - ## Swift
 
-## > Unity
+  - ## Unity
 
-## > WebKit
+  - ## WebKit
 
-# [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleFirmware.yaml)
+- # [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleFirmware.yaml)
 
-## > Apple ID
+  - ## Apple ID
 
-## > Apple One
+  - ## Apple One
 
-## > Apple Pay
+  - ## Apple Pay
 
-## > App Store
+  - ## App Store
 
-## > iCloud
+  - ## iCloud
 
-## > iTunes
+  - ## iTunes
 
-## > macOS
+  - ## macOS
 
-# [AppleHardware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleHardware.yaml)
+- # [AppleHardware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleHardware.yaml)
 
-## > Apple Care
+  - ## Apple Care
 
-## > Apple Store
+  - ## Apple Store
 
-## > iMac
+  - ## iMac
 
-## > iPad
+  - ## iPad
 
-## > iPhone
+  - ## iPhone
 
-## > iPod
+  - ## iPod
 
-## > MacBook
+  - ## MacBook
 
-## > Apple Watch
+  - ## Apple Watch
 
-# [AppleMedia](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleMedia.yaml)
+- # [AppleMedia](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleMedia.yaml)
 
-## > Apple Music
+  - ## Apple Music
 
-## > Apple News
+  - ## Apple News
 
-## > Apple TV
+  - ## Apple TV
 
-## > iBook
+  - ## iBook
 
-## > iPhoto
+  - ## iPhoto
 
-## > iMovie
+  - ## iMovie
 
-# [Beats](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/Beats.yaml)
+- # [Beats](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/Beats.yaml)
