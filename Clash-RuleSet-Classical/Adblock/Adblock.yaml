@@ -3189,7 +3189,6 @@ payload:
   - DOMAIN-SUFFIX,adgeo.163.com
   - DOMAIN-SUFFIX,adgeo.corp.163.com
   - DOMAIN-SUFFIX,analytics.163.com
-  - DOMAIN-SUFFIX,api.iplay.163.com
   - DOMAIN-SUFFIX,bobo.163.com
   - DOMAIN-SUFFIX,bobo.corp.163.com
   - DOMAIN-SUFFIX,channel.m.163.com
@@ -3253,7 +3252,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.hz.netease.com
   - DOMAIN-SUFFIX,da.netease.com
   - DOMAIN-SUFFIX,httpdns.n.netease.com
-  - DOMAIN-SUFFIX,mam.netease.com
   - DOMAIN-SUFFIX,mr.da.netease.com
   - DOMAIN-SUFFIX,pcr.da.netease.com
   - DOMAIN-SUFFIX,pr.da.netease.com
