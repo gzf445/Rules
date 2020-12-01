@@ -4213,6 +4213,18 @@ payload:
   ## > Quora
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
+  ## > Rakuten (乐天)
+  - DOMAIN-SUFFIX,ebates.com
+  - DOMAIN-SUFFIX,infoseek.co.jp
+  - DOMAIN-SUFFIX,o50.jp
+  - DOMAIN-SUFFIX,r10.to
+  - DOMAIN-SUFFIX,r10s.jp
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,rakuten.com
+  - DOMAIN-SUFFIX,showtime.co.jp
+  ## >> Viber
+  - DOMAIN-SUFFIX,viber.co.jp
+  - DOMAIN-SUFFIX,viber.com
   ## > Rarbg
   - DOMAIN-SUFFIX,rarbg.to
   - DOMAIN-SUFFIX,rarbg.is
@@ -4659,6 +4671,7 @@ payload:
   - DOMAIN-SUFFIX,verisign.vn
   - DOMAIN-SUFFIX,verisigninc.com
   ## > Verizon
+  - DOMAIN-SUFFIX,advertising.com
   - DOMAIN-SUFFIX,verizon.com
   - DOMAIN-SUFFIX,verizon.net
   - DOMAIN-SUFFIX,verizonbusiness.com
@@ -9214,7 +9227,6 @@ payload:
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,rainmeter.net
   - DOMAIN-SUFFIX,raizoji.or.jp
-  - DOMAIN-SUFFIX,rakuten.co.jp
   - DOMAIN-SUFFIX,ramcity.com.au
   - DOMAIN-SUFFIX,rameshsubramanian.org
   - DOMAIN-SUFFIX,rangwang.biz
@@ -10400,7 +10412,6 @@ payload:
   - DOMAIN-SUFFIX,verybs.com
   - DOMAIN-SUFFIX,vevo.com
   - DOMAIN-SUFFIX,vft.com.tw
-  - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,vica.info
   - DOMAIN-SUFFIX,victimsofcommunism.org
   - DOMAIN-SUFFIX,vid.me

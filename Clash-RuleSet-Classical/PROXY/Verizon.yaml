@@ -1,5 +1,6 @@
 payload:
   ## > Verizon
+  - DOMAIN-SUFFIX,advertising.com
   - DOMAIN-SUFFIX,verizon.com
   - DOMAIN-SUFFIX,verizon.net
   - DOMAIN-SUFFIX,verizonbusiness.com
