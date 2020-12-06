@@ -1988,6 +1988,19 @@ payload:
   ## > 赶集
   - DOMAIN-SUFFIX,ganji.com
   - DOMAIN-SUFFIX,ganjistatic1.com
+  ## > 硅谷动力
+  - DOMAIN-SUFFIX,ciweekforum.com
+  - DOMAIN-SUFFIX,enet.com.cn
+  - DOMAIN-SUFFIX,enet16.cn
+  - DOMAIN-SUFFIX,enet16.com
+  - DOMAIN-SUFFIX,enet16.com.cn
+  - DOMAIN-SUFFIX,enet16.net
+  - DOMAIN-SUFFIX,enet369.com
+  - DOMAIN-SUFFIX,mydor.com
+  - DOMAIN-SUFFIX,xingzhiheyi.com
+  ## >> e猪搜索
+  - DOMAIN-SUFFIX,ezhu.cn
+  - DOMAIN-SUFFIX,ezhu.com
   ## > 汉仪
   - DOMAIN-SUFFIX,hellofont.cn
   - DOMAIN-SUFFIX,hellowebfont.com
@@ -3367,6 +3380,21 @@ payload:
   - DOMAIN-SUFFIX,qingting.fm
   - DOMAIN-SUFFIX,qingtingfm.com
   - DOMAIN-SUFFIX,qtfm.cn
+  ## > 青云 QingCloud
+  - DOMAIN-SUFFIX,anybox.com
+  - DOMAIN-SUFFIX,kubesphere.com.cn
+  - DOMAIN-SUFFIX,qingcloud.cn
+  - DOMAIN-SUFFIX,qingcloud.com
+  - DOMAIN-SUFFIX,qingcloud.com.cn
+  - DOMAIN-SUFFIX,quanxiangyun.com
+  - DOMAIN-SUFFIX,routewize.com
+  - DOMAIN-SUFFIX,yunify.com
+  ## >> 青存QingStor
+  - DOMAIN-SUFFIX,qingstor.com
+  - DOMAIN-SUFFIX,qingstorage.com
+  ## >> 青云CDN
+  - DOMAIN-SUFFIX,frontwize.com
+  - DOMAIN-SUFFIX,qingcache.com
   ## > 人人网
   - DOMAIN-SUFFIX,renren-inc.com
   - DOMAIN-SUFFIX,renren.com
@@ -7237,7 +7265,6 @@ payload:
   - DOMAIN-SUFFIX,qilinchess.com
   - DOMAIN-SUFFIX,qin.io
   - DOMAIN-SUFFIX,qingaiw.com
-  - DOMAIN-SUFFIX,qingcloud.com
   - DOMAIN-SUFFIX,qingdaochina.org
   - DOMAIN-SUFFIX,qingdaonews.com
   - DOMAIN-SUFFIX,qingdou.net
