@@ -1653,8 +1653,12 @@ DOMAIN-SUFFIX,getwsone.com
 DOMAIN-SUFFIX,whatisairwatch.com
 DOMAIN-SUFFIX,whatisworkspaceone.com
 DOMAIN-SUFFIX,workspaceone.com
-## > Digicert
+## > DigiCert
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,digitalcertvalidation.com
+DOMAIN-SUFFIX,freessl.com
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,rapidssl.com
 ## > Discord
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
