@@ -1,5 +1,6 @@
 payload:
   ## > Rarbg
+  - DOMAIN-SUFFIX,proxyrarbg.org
   - DOMAIN-SUFFIX,rarbg.bypassed.org
   - DOMAIN-SUFFIX,rarbg.is
   - DOMAIN-SUFFIX,rarbg.link

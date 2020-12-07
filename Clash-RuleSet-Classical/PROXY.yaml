@@ -4237,6 +4237,7 @@ payload:
   - DOMAIN-SUFFIX,viber.co.jp
   - DOMAIN-SUFFIX,viber.com
   ## > Rarbg
+  - DOMAIN-SUFFIX,proxyrarbg.org
   - DOMAIN-SUFFIX,rarbg.to
   - DOMAIN-SUFFIX,rarbg.is
   - DOMAIN-SUFFIX,rarbg.link
