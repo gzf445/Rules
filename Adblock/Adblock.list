@@ -2194,6 +2194,15 @@ DOMAIN-SUFFIX,cs02-pps-drcn.dbankcdn.com
 DOMAIN-SUFFIX,libfre.obs.cn-east-3.myhuaweicloud.com
 DOMAIN-SUFFIX,teslaamg.obs.cn-east-3.myhuaweicloud.com
 DOMAIN-SUFFIX,hiad.vmall.com
+## > IAC-ads
+DOMAIN-SUFFIX,clk.about.com
+DOMAIN-SUFFIX,apnmedia.ask.com
+DOMAIN-SUFFIX,spanids.dictionary.com
+DOMAIN-SUFFIX,spt.dictionary.com
+DOMAIN-SUFFIX,track.dictionary.com
+DOMAIN-SUFFIX,adimp.excite.co.jp
+DOMAIN-SUFFIX,wisteria-js.excite.co.jp
+DOMAIN-SUFFIX,media.match.com
 ## > Lenovo
 DOMAIN-SUFFIX,adapi.lenovogame.com
 DOMAIN-SUFFIX,adcore.lenovomm.com
