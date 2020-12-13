@@ -6022,7 +6022,6 @@ payload:
   - DOMAIN-SUFFIX,bb-chat.tv
   - DOMAIN-SUFFIX,bb.ttv.com.tw
   - DOMAIN-SUFFIX,bbchat.tv
-  - DOMAIN-SUFFIX,bbg.gov
   - DOMAIN-SUFFIX,bbkz.com
   - DOMAIN-SUFFIX,bbnradio.org
   - DOMAIN-SUFFIX,bbs-tw.com
@@ -7878,7 +7877,6 @@ payload:
   - DOMAIN-SUFFIX,inote.tw
   - DOMAIN-SUFFIX,insder.co
   - DOMAIN-SUFFIX,insecam.org
-  - DOMAIN-SUFFIX,insidevoa.com
   - DOMAIN-SUFFIX,instanthq.com
   - DOMAIN-SUFFIX,instapaper.com
   - DOMAIN-SUFFIX,institut-tibetain.org
@@ -10478,7 +10476,6 @@ payload:
   - DOMAIN-SUFFIX,vmixcore.com
   - DOMAIN-SUFFIX,vmpsoft.com
   - DOMAIN-SUFFIX,vnet.link
-  - DOMAIN-SUFFIX,voa.mobi
   - DOMAIN-SUFFIX,voagd.com
   - DOMAIN-SUFFIX,vocativ.com
   - DOMAIN-SUFFIX,vocn.tv
