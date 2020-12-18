@@ -162,8 +162,10 @@ dns:
     geoip: true # default
     ipcidr: # ips in these subnets will be considered polluted
       - 0.0.0.0/32
+      - 100.64.0.0/10
       - 127.0.0.0/8
       - 240.0.0.0/4
+      - 255.255.255.255/32
 
 {% endif %}
 {% if request.target == "surge" %}
