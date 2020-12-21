@@ -1,6 +1,4 @@
 ## ⛔️ 阻止打扰
-## > Clash默认fakeip段
-IP-CIDR,198.18.0.1/16,no-resolve
 ## > 17173-ads
 DOMAIN-SUFFIX,ad.17173.com
 DOMAIN-SUFFIX,vda.17173.com
