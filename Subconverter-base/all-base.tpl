@@ -52,7 +52,7 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
   enhanced-mode: fake-ip # redir-host #fake-ip
-  fake-ip-range: 198.18.0.1/16
+#  fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     # === LAN ===
     - '*.lan'
