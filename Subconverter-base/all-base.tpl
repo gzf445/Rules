@@ -16,17 +16,10 @@ secret: ''
 #interface-name: en0
 {% if exists("request.clash.dns") %}
 {% if request.clash.dns == "cfw" %}
-tun:
-  enable: true
-  stack: gvisor # only gvisor
-  dns-hijack:
-    - 198.18.0.2:53 # when `fake-ip-range` is 198.18.0.1/16, should hijack 198.18.0.2:53
-  macOS-auto-route: true # auto set global route for Windows
-  macOS-auto-detect-interface: true # auto detect interface, conflict with `interface-name`
 hosts:
 dns:
   enable: true
-  #listen: 0.0.0.0:53
+  listen: 0.0.0.0:53
   ipv6: true
 {% endif %}
 {% if request.clash.dns == "cfa" %}
@@ -40,6 +33,9 @@ dns:
   ipv6: true
 {% endif %}
 {% else %}
+tun:
+  enable: true
+  stack: system # or gvisor
 hosts:
 dns:
   enable: true
