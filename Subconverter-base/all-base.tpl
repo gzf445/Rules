@@ -46,6 +46,7 @@ dns:
   listen: 127.0.0.1:1053
   ipv6: true
 {% endif %}
+{% endif %}
   # These nameservers are used to resolve the DNS nameserver hostnames below.
   # Specify IP addresses only
   default-nameserver:
