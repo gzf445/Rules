@@ -4186,12 +4186,15 @@ payload:
   ## > Qualcomm
   - DOMAIN-SUFFIX,airgonetworks.com
   - DOMAIN-SUFFIX,berkanawireless.com
+  - DOMAIN-SUFFIX,cdmatech.com
   - DOMAIN-SUFFIX,dragoniscoming.com
   - DOMAIN-SUFFIX,gobianywhere.com
+  - DOMAIN-SUFFIX,gpsonextra.net
   - DOMAIN-SUFFIX,hellosmartbook.com
   - DOMAIN-SUFFIX,imod.com
   - DOMAIN-SUFFIX,ipleadership.org
   - DOMAIN-SUFFIX,iskoot.com
+  - DOMAIN-SUFFIX,izatcloud.net
   - DOMAIN-SUFFIX,meetsmartbook.com
   - DOMAIN-SUFFIX,patenttruth.org
   - DOMAIN-SUFFIX,pixtronix.com
@@ -4209,6 +4212,7 @@ payload:
   - DOMAIN-SUFFIX,qualcomm.com.tw
   - DOMAIN-SUFFIX,qualcomm.de
   - DOMAIN-SUFFIX,qualcomm.fr
+  - DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
   - DOMAIN-SUFFIX,qualcommhalo.com
   - DOMAIN-SUFFIX,qualcommlabs.com
   - DOMAIN-SUFFIX,qualcommmea.com
@@ -4222,7 +4226,7 @@ payload:
   - DOMAIN-SUFFIX,uplinq.com
   - DOMAIN-SUFFIX,wipower.com
   - DOMAIN-SUFFIX,wirelessreach.com
-  - DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
+  - DOMAIN-SUFFIX,xtracloud.cn
   ## >> brew
   - DOMAIN-SUFFIX,brewmp.com
   ## > Quantil
