@@ -23,7 +23,7 @@ tun:
     - 198.18.0.2:53 # when `fake-ip-range` is 198.18.0.1/16, should hijack 198.18.0.2:53
   macOS-auto-route: true # auto set global route for Windows
   macOS-auto-detect-interface: true # auto detect interface, conflict with `interface-name`
-interface-name: WLAN
+#interface-name: WLAN
 hosts:
 dns:
   enable: true
