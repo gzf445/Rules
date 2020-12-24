@@ -78,8 +78,6 @@
 
 - # [KKBOX](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/KKBOX.list)
 
-- # [KKTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/KKTV.list)
-
 - # [Litv](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LiTV.list)
 
 - # [LineTV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/LineTV.list)

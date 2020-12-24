@@ -78,8 +78,6 @@
 
 - # [KKBOX](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/KKBOX.yaml)
 
-- # [KKTV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/KKTV.yaml)
-
 - # [Litv](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/LiTV.yaml)
 
 - # [LineTV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/LineTV.yaml)
