@@ -1927,6 +1927,9 @@ payload:
   - DOMAIN-SUFFIX,neulion.com
   - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,flzbcdn.xyz
+  ## > FetNet
+  - DOMAIN-SUFFIX,fetnet.net
+  - DOMAIN-SUFFIX,friday.tw
   ## > FlipBoard
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipchina.cn
@@ -7244,7 +7247,6 @@ payload:
   - DOMAIN-SUFFIX,freexinwen.com
   - DOMAIN-SUFFIX,freeyellow.com
   - DOMAIN-SUFFIX,freeyoutubeproxy.net
-  - DOMAIN-SUFFIX,friday.tw
   - DOMAIN-SUFFIX,frienddeck.com
   - DOMAIN-SUFFIX,frienddy.com
   - DOMAIN-SUFFIX,friendfeed-media.com
