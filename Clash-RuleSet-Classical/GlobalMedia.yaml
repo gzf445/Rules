@@ -571,6 +571,9 @@ payload:
   - DOMAIN-SUFFIX,kicu.tv
   - DOMAIN-SUFFIX,ktvu.com
   - DOMAIN-SUFFIX,myfoxsanfran.com
+  ## > friDay
+  - DOMAIN-SUFFIX,fetnet.net
+  - DOMAIN-SUFFIX,friday.tw
   ## > HBO NOW & HBO GO HKG
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,forthethrone.com

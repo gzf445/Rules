@@ -571,6 +571,9 @@ DOMAIN-SUFFIX,bentobox.tv
 DOMAIN-SUFFIX,kicu.tv
 DOMAIN-SUFFIX,ktvu.com
 DOMAIN-SUFFIX,myfoxsanfran.com
+## > friDay
+DOMAIN-SUFFIX,fetnet.net
+DOMAIN-SUFFIX,friday.tw
 ## > HBO NOW & HBO GO HKG
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*

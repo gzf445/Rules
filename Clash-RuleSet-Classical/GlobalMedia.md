@@ -54,6 +54,8 @@
 
   - ## KTVU FOX 2
 
+- # [friDay](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/friDay.yaml)
+
 - # [HBO NOW & HBO GO HKG](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/HBO.yaml)
 
 - # [Huffpost](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Huffpost.yaml)

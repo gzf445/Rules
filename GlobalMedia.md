@@ -54,6 +54,8 @@
 
   - ## KTVU FOX 2
 
+- # [friDay](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/friDay.list)
+
 - # [HBO NOW & HBO GO HKG](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/HBO.list)
 
 - # [Huffpost](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Huffpost.list)
