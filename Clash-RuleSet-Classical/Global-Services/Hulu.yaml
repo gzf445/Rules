@@ -14,7 +14,9 @@ payload:
   - DOMAIN-SUFFIX,huloo.cc
   - DOMAIN-SUFFIX,huloo.tv
   - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,hulu.hb.omtrdc.net
   - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,hulu.sc.omtrdc.net
   - DOMAIN-SUFFIX,hulu.tv
   - DOMAIN-SUFFIX,hulu.us
   - DOMAIN-SUFFIX,huluaction.com
@@ -48,5 +50,6 @@ payload:
   - DOMAIN-SUFFIX,originalhulu.com
   - DOMAIN-SUFFIX,payhulu.com
   - DOMAIN-SUFFIX,registerhulu.com
+  - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,thehulubraintrust.com
   - DOMAIN-SUFFIX,wwwhuluplus.com

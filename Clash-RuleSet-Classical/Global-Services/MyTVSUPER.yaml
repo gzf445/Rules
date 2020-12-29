@@ -1,4 +1,6 @@
 payload:
   ## > MyTV SUPER
   - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,tvb.com
