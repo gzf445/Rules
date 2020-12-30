@@ -15,7 +15,7 @@ external-controller: {{ local.clash.api_port}}
 secret: ''
 #interface-name: en0
 {% if exists("request.clash.dns") %}
-{% if request.clash.dns == "cfw" %}
+{% if request.clash.dns == "tun" %}
 tun:
   enable: true
   stack: gvisor # only gvisor
