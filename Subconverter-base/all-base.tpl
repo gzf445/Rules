@@ -136,7 +136,7 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
     - https://doh.pub/dns-query
-    - https://doh.rixcloud.dev/dns-query
+    - https://cdn-doh.ssnm.xyz/dns-query
     - https://dns.alidns.com/dns-query
     - https://cloudflare-dns.com/dns-query
 #    - https://dns.google/dns-query
@@ -156,6 +156,7 @@ dns:
 #    - tls://dns-tls.qis.io:853
   fallback:
 #    - https://dns.alidns.com/dns-query
+    - https://cdn-doh.ssnm.xyz/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns.quad9.net/dns-query
     - https://cloudflare-dns.com/dns-query
