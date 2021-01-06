@@ -2998,6 +2998,10 @@ DOMAIN-SUFFIX,vaultproject.io
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,herokucdn.com
+## > HKedcity
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net
 ## > HP
 DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,hpstore-china.com
@@ -4375,6 +4379,15 @@ DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,shopee.vn
 DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,shp.ee
+## > Shopify
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com
 ## > Signal
 DOMAIN-SUFFIX,signal.org
 ## > Slack
