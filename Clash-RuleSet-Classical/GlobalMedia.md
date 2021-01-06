@@ -92,8 +92,6 @@
 
 - # [My5](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/My5.yaml)
 
-- # [MyTV SUPER](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/MyTVSUPER.yaml)
-
 - # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Niconico.yaml)
 
 - # [Nikkei](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Nikkei.yaml)
@@ -129,6 +127,10 @@
 - # [TikTok](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/TikTok.yaml)
 
 - # [Vidol TV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/VidolTV.yaml)
+
+- # [TVB](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/TVB.yaml)
+
+  - ## MyTV SUPER
 
 - # [Viki](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Viki.yaml)
 

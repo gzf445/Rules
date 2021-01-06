@@ -92,8 +92,6 @@
 
 - # [My5](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/My5.list)
 
-- # [MyTV SUPER](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MyTVSUPER.list)
-
 - # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Niconico.list)
 
 - # [Nikkei](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Nikkei.list)
@@ -127,6 +125,10 @@
 - # [TIDAL](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TIDAL.list)
 
 - # [TikTok](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TikTok.list)
+
+- # [TVB](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/TVB.list)
+
+  - ## MyTV SUPER
 
 - # [Vidol TV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/VidolTV.list)
 
