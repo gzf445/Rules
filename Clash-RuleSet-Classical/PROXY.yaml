@@ -4372,12 +4372,13 @@ payload:
   - DOMAIN-SUFFIX,secom.co.jp
   - DOMAIN-SUFFIX,secomtrust.net
   ## > Sectigo
-  - DOMAIN-SUFFIX,sectigo.com
   - DOMAIN-SUFFIX,enterprisessl.com
   - DOMAIN-SUFFIX,hackerguardian.com
   - DOMAIN-SUFFIX,instantssl.com
   - DOMAIN-SUFFIX,optimumssl.com
   - DOMAIN-SUFFIX,positivessl.com
+  - DOMAIN-SUFFIX,sectigo.com
+  - DOMAIN-SUFFIX,usertrust.com
   ## > Sharethis
   - DOMAIN-SUFFIX,sharethis.com
   ## > Shopee
@@ -10497,7 +10498,6 @@ payload:
   - DOMAIN-SUFFIX,usc.edu
   - DOMAIN-SUFFIX,usembassy.gov
   - DOMAIN-SUFFIX,userstyles.org
-  - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,usfk.mil
   - DOMAIN-SUFFIX,usgs.gov
   - DOMAIN-SUFFIX,usma.edu

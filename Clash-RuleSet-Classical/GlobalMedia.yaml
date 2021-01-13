@@ -137,6 +137,11 @@ payload:
   - DOMAIN-SUFFIX,nbcudigitaladops.com
   ## > CNN
   - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
   ## > Dailymotion
   - DOMAIN-SUFFIX,dailymotion.com
   - DOMAIN-SUFFIX,dmcdn.net
