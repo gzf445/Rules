@@ -21,5 +21,6 @@ payload:
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
   ## >> Npmjs
-  - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
