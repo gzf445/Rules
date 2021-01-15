@@ -17,10 +17,14 @@ payload:
   - DOMAIN-SUFFIX,cbssports.com
   - DOMAIN-SUFFIX,cbsstatic.com
   - DOMAIN-SUFFIX,cbssvideo.com
-  - DOMAIN-SUFFIX,showtime
+  - DOMAIN-SUFFIX,cbstelevisioncity.com
   - DOMAIN-SUFFIX,viacbs.com
   - DOMAIN-SUFFIX,viacom.com
   - DOMAIN-SUFFIX,viacomcbs.com
   - DOMAIN-SUFFIX,viacomcbspressexpress.com
+  ## >> CBS Radio
+  - DOMAIN-SUFFIX,cbsradio.com
   ## >> Paramount
   - DOMAIN-SUFFIX,paramount.com
+  ## >> ShowTime
+  - DOMAIN-SUFFIX,showtime.com
