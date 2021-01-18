@@ -36,6 +36,8 @@
 
 - # [Deezer](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Deezer.yaml)
 
+- # [DiscoveryPlus](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/DiscoveryPlus.yaml)
+
 - # [Disney](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Disney.yaml)
 
   - ## ABC

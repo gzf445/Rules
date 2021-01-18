@@ -36,6 +36,8 @@
 
 - # [Deezer](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Deezer.list)
 
+- # [Discovery Plus](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/DiscoveryPlus.list)
+
 - # [Disney](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Disney.list)
 
   - ## ABC
