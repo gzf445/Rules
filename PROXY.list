@@ -3041,6 +3041,7 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,identrust.co.uk
 DOMAIN-SUFFIX,identrust.net
 ## > IMDB
+DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
