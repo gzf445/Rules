@@ -126,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
   - DOMAIN-SUFFIX,microsoftedge.com
+  - DOMAIN-SUFFIX,microsoftedgeinsider.com
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,s-msedge.net
   ## >> M12
