@@ -60,7 +60,6 @@ payload:
   - DOMAIN-SUFFIX,azure.microsoft.com
   - DOMAIN-SUFFIX,azuremarketplace.microsoft.com
   ## >> Bing
-  - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,bbing.com
   - DOMAIN-SUFFIX,bibg.com
   - DOMAIN-SUFFIX,biing.com
@@ -120,6 +119,15 @@ payload:
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,cn.bing.net
   - DOMAIN-SUFFIX,ditu.live.com
+  ## >> Edge
+  - DOMAIN-SUFFIX,a-msedge.net
+  - DOMAIN-SUFFIX,c-msedge.net
+  - DOMAIN-SUFFIX,e-msedge.net
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
+  - DOMAIN-SUFFIX,microsoftedge.com
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,s-msedge.net
   ## >> M12
   - DOMAIN-SUFFIX,femalefounderscomp.com
   - DOMAIN-SUFFIX,m12.vc
@@ -201,6 +209,17 @@ payload:
   - DOMAIN-SUFFIX,msnewskids.org
   - DOMAIN-SUFFIX,msnkids.com
   - DOMAIN-SUFFIX,winmp.cn
+  ## >> Office365
+  - DOMAIN-SUFFIX,o365cn.com
+  - DOMAIN-SUFFIX,o365files.cn
+  - DOMAIN-SUFFIX,o365weve-dev.com
+  - DOMAIN-SUFFIX,o365weve-ppe.com
+  - DOMAIN-SUFFIX,o365weve.com
+  - DOMAIN-SUFFIX,office
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,officedev.cn
   ## >> Onedrive
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,1drv.ms
@@ -307,7 +326,6 @@ payload:
   - DOMAIN-SUFFIX,boswp.com
   - DOMAIN-SUFFIX,brazilpartneruniversity.com
   - DOMAIN-SUFFIX,breakdown.me
-  - DOMAIN-SUFFIX,c-msedge.net
   - DOMAIN-SUFFIX,centralvalidation.com
   - DOMAIN-SUFFIX,ch9.ms
   - DOMAIN-SUFFIX,charticulator.com
@@ -319,11 +337,8 @@ payload:
   - DOMAIN-SUFFIX,docs.com
   - DOMAIN-SUFFIX,dwh5.com
   - DOMAIN-SUFFIX,dynamics.com
-  - DOMAIN-SUFFIX,e-msedge.net
-  - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,efproject.net
   - DOMAIN-SUFFIX,engkoo.com
-  - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
   - DOMAIN-SUFFIX,fasttrackreadysupport.com
   - DOMAIN-SUFFIX,fluidpreview.com
   - DOMAIN-SUFFIX,footprintdns.com
@@ -430,7 +445,6 @@ payload:
   - DOMAIN-SUFFIX,microsoftcloud.com
   - DOMAIN-SUFFIX,microsoftcloudworkshop.com
   - DOMAIN-SUFFIX,microsoftcommunitytraining.com
-  - DOMAIN-SUFFIX,microsoftedge.com
   - DOMAIN-SUFFIX,microsoftemail.com
   - DOMAIN-SUFFIX,microsoftestore.com.hk
   - DOMAIN-SUFFIX,microsofthouse.com
@@ -465,7 +479,6 @@ payload:
   - DOMAIN-SUFFIX,msauthimages.net
   - DOMAIN-SUFFIX,mschallenge2018.com
   - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msft.info
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.cn
@@ -491,18 +504,8 @@ payload:
   - DOMAIN-SUFFIX,mymicrosoft.com
   - DOMAIN-SUFFIX,nextechafrica.net
   - DOMAIN-SUFFIX,nxta.org
-  - DOMAIN-SUFFIX,o365cn.com
-  - DOMAIN-SUFFIX,o365files.cn
-  - DOMAIN-SUFFIX,o365weve-dev.com
-  - DOMAIN-SUFFIX,o365weve-ppe.com
-  - DOMAIN-SUFFIX,o365weve.com
   - DOMAIN-SUFFIX,oaspapps.com
   - DOMAIN-SUFFIX,oaspapps.com.akadns.net
-  - DOMAIN-SUFFIX,office
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,officedev.cn
   - DOMAIN-SUFFIX,onecollector.cloudapp.aria
   - DOMAIN-SUFFIX,onecollector.cloudapp.aria.akadns.net
   - DOMAIN-SUFFIX,onenote.com
@@ -529,7 +532,6 @@ payload:
   - DOMAIN-SUFFIX,projectsangam.com
   - DOMAIN-SUFFIX,pxt.io
   - DOMAIN-SUFFIX,s-microsoft.com
-  - DOMAIN-SUFFIX,s-msedge.net
   - DOMAIN-SUFFIX,s-msft.com
   - DOMAIN-SUFFIX,s-msn.com
   - DOMAIN-SUFFIX,sfbassets.com
