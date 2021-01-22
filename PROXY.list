@@ -4582,6 +4582,15 @@ DOMAIN-SUFFIX,thesffblog.com
 ## > Stackpath
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
+## > Starbucks
+DOMAIN-SUFFIX,starbucks.ca
+DOMAIN-SUFFIX,starbucks.co.uk
+DOMAIN-SUFFIX,starbucks.com
+DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,starbucks.de
+DOMAIN-SUFFIX,starbucks.fr
+DOMAIN-SUFFIX,starbucks.ie
+DOMAIN-SUFFIX,starbucksreserve.com
 ## > Startpage
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,ixquick.com
