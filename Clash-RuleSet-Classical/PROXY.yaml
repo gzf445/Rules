@@ -3332,8 +3332,6 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.net
   - DOMAIN-SUFFIX,datalore.io
   - DOMAIN-SUFFIX,kotlinlang.org
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,jsdelivr.com
   ## > Jfrog
   - DOMAIN-SUFFIX,jfrog.com
   - DOMAIN-SUFFIX,jfrog.org
@@ -3342,6 +3340,10 @@ payload:
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jquerymobile.com
   - DOMAIN-SUFFIX,jqueryui.com
+  ## > Jsdelivr
+  - DOMAIN-SUFFIX,esm.run
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,jsdelivr.net
   ## > Jwplayer
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,jwplatform.com
