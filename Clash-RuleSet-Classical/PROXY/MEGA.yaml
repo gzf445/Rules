@@ -1,6 +1,7 @@
 payload:
   ## > Mega
   - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.nz
   - IP-CIDR,94.24.36.0/24,no-resolve
   - IP-CIDR,94.24.37.0/24,no-resolve
