@@ -4308,6 +4308,7 @@ payload:
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.nl
   ## > Pixiv
+  - DOMAIN-SUFFIX,pixiv.me
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pixiv.org
   - DOMAIN-SUFFIX,pixiv.co.jp
