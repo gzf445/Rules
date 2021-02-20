@@ -14,6 +14,9 @@ external-controller: {{ local.clash.api_port}}
 
 secret: ''
 #interface-name: en0
+profile:
+  # open tracing exporter API
+  tracing: true
 {% if exists("request.clash.dns") %}
 {% if request.clash.dns == "tap" %}
 #interface-name: WLAN
