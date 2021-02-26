@@ -1523,6 +1523,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflaretest.com
   - DOMAIN-SUFFIX,one.one.one
   - DOMAIN-SUFFIX,one.one.one.one
+  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,trycloudflare.com
   - DOMAIN-SUFFIX,videodelivery.net
   - DOMAIN-SUFFIX,warp.plus
@@ -9620,8 +9621,7 @@ payload:
   - DOMAIN-SUFFIX,rxhj.net
   - DOMAIN-SUFFIX,s-cute.com
   - DOMAIN-SUFFIX,s-dragon.org
-  - DOMAIN-SUFFIX,s.gravatar.com
-  - DOMAIN-SUFFIX,s1.nudezz.com
+  - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,s1heng.com
   - DOMAIN-SUFFIX,s1s1s1.com
   - DOMAIN-SUFFIX,s4miniarchive.com
