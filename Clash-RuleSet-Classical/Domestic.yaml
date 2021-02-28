@@ -4957,6 +4957,14 @@ payload:
   - DOMAIN-SUFFIX,lf127.net
   - DOMAIN-SUFFIX,lofter.com
   - DOMAIN-SUFFIX,yaoluu.com
+  ## >> 网易卡搭
+  - DOMAIN-SUFFIX,163kada.com
+  - DOMAIN-SUFFIX,kada.com
+  - DOMAIN-SUFFIX,kada163.com
+  ## >> 网易云加速
+  - DOMAIN-SUFFIX,163jiasu.com
+  - DOMAIN-SUFFIX,163nasa.com
+  - DOMAIN-SUFFIX,ntes53.com
   ## >> 有道
   - DOMAIN-SUFFIX,126.fm
   - DOMAIN-SUFFIX,163.fm
@@ -6909,7 +6917,6 @@ payload:
   - DOMAIN-SUFFIX,gongzicp.com
   - DOMAIN-SUFFIX,goodread.com
   - DOMAIN-SUFFIX,govtz.com
-  - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,gree.com
   - DOMAIN-SUFFIX,greenxiazai.com
   - DOMAIN-SUFFIX,growingio.com
