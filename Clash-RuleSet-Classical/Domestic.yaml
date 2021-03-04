@@ -414,8 +414,10 @@ payload:
   - DOMAIN-SUFFIX,360wzb.cn
   - DOMAIN-SUFFIX,360wzb.com
   ## > 36kr
+  - DOMAIN-SUFFIX,36dianping.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,36krcdn.com
+  - DOMAIN-SUFFIX,36krcnd.com
   ## > 3dm
   - DOMAIN-SUFFIX,3dmgame.com
   ## > 3type
