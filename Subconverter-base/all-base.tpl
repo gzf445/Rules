@@ -141,10 +141,11 @@ dns:
     - https://doh.pub/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
     - https://dns.alidns.com/dns-query
-    - https://cloudflare-dns.com/dns-query
-#    - https://dns.google/dns-query
+    - https://i.233py.com/dns-query
     - https://doh.opendns.com/dns-query
     - https://dns.twnic.tw/dns-query
+#    - https://cloudflare-dns.com/dns-query
+#    - https://dns.google/dns-query
 #    - https://dns.quad9.net/dns-query
 #    - https://doh.qis.io/dns-query
 #    - https://doh.powerdns.org
@@ -158,7 +159,6 @@ dns:
 #    - tls://dns.google:853
 #    - tls://dns-tls.qis.io:853
   fallback:
-#    - https://dns.alidns.com/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns.quad9.net/dns-query
@@ -168,6 +168,7 @@ dns:
     - https://doh.opendns.com/dns-query
     - https://doh.powerdns.org
 #    - tcp://1.1.1.1
+#    - https://dns.alidns.com/dns-query
 #    - https://doh.dns.sb/dns-query
 #    - https://dns.rubyfish.cn/dns-query
 #    - https://sdns.233py.com/dns-query
