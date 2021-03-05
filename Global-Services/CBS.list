@@ -1,16 +1,13 @@
 ## > CBS
 DOMAIN-SUFFIX,cbs
 DOMAIN-SUFFIX,cbs.com
-DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
-DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsi.video
 DOMAIN-SUFFIX,cbsiam.com
 DOMAIN-SUFFIX,cbsig.net
 DOMAIN-SUFFIX,cbsimg.net
 DOMAIN-SUFFIX,cbsinteractive.com
 DOMAIN-SUFFIX,cbsistatic.com
-DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cbspressexpress.com
 DOMAIN-SUFFIX,cbssports.com
@@ -25,6 +22,13 @@ DOMAIN-SUFFIX,viacomcbspressexpress.com
 ## >> CBS Radio
 DOMAIN-SUFFIX,cbsradio.com
 ## >> Paramount
+USER-AGENT,PPlus*
 DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
 ## >> ShowTime
 DOMAIN-SUFFIX,showtime.com

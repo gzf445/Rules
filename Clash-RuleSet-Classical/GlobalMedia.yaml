@@ -83,20 +83,25 @@ payload:
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
   ## > BBC
-  - DOMAIN-SUFFIX,bbc.co.uk
-  - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.in
-  - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
-  - DOMAIN,vod-dash-uk-live.akamaized.net
-  - DOMAIN,vod-thumb-uk-live.akamaized.net
-  - DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net
-  - DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net
+  - DOMAIN-SUFFIX,bbci.co
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcverticals.com
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-dash-uk-live.akamaized.net
+  - DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-dash-ww-live.bbcfmt.s.llnwi.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.bbcfmt.s.llnwi.net
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
   ## > BoXun
@@ -108,16 +113,13 @@ payload:
   ## > CBS
   - DOMAIN-SUFFIX,cbs
   - DOMAIN-SUFFIX,cbs.com
-  - DOMAIN-SUFFIX,cbsaavideo.com
   - DOMAIN-SUFFIX,cbscorporation.com
-  - DOMAIN-SUFFIX,cbsi.com
   - DOMAIN-SUFFIX,cbsi.video
   - DOMAIN-SUFFIX,cbsiam.com
   - DOMAIN-SUFFIX,cbsig.net
   - DOMAIN-SUFFIX,cbsimg.net
   - DOMAIN-SUFFIX,cbsinteractive.com
   - DOMAIN-SUFFIX,cbsistatic.com
-  - DOMAIN-SUFFIX,cbsivideo.com
   - DOMAIN-SUFFIX,cbsnews.com
   - DOMAIN-SUFFIX,cbspressexpress.com
   - DOMAIN-SUFFIX,cbssports.com
@@ -133,6 +135,12 @@ payload:
   - DOMAIN-SUFFIX,cbsradio.com
   ## >> Paramount
   - DOMAIN-SUFFIX,paramount.com
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbsivideo.com
+  - DOMAIN-SUFFIX,paramountplus.com
+  - DOMAIN-SUFFIX,pplusstatic.com
+  - DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
   ## >> ShowTime
   - DOMAIN-SUFFIX,showtime.com
   ## > CNBC

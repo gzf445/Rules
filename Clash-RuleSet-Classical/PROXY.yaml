@@ -242,6 +242,7 @@ payload:
   - DOMAIN-SUFFIX,amazonalexavoxcon.com
   - DOMAIN-SUFFIX,amazonauthorinsights.com
   - DOMAIN-SUFFIX,amazonaws-china.com
+  - DOMAIN-SUFFIX,amazonaws.co.uk
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,amazonaws.tv
   - DOMAIN-SUFFIX,amazonbusiness.cn
@@ -3329,6 +3330,11 @@ payload:
   - DOMAIN-SUFFIX,xscale.com
   ## >> Barefoot Networks
   - DOMAIN-SUFFIX,barefootnetworks.com
+  ## > Intercom
+  - DOMAIN-SUFFIX,intercom.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomassets.com
+  - DOMAIN-SUFFIX,intercomcdn.com
   ## > IPinfo
   - DOMAIN-SUFFIX,ipinfo.io
   ## > ip-api
@@ -3509,6 +3515,15 @@ payload:
   ## > Lihkg
   - DOMAIN-SUFFIX,lih.kg
   - DOMAIN-SUFFIX,lihkg.com
+  ## > Limelight
+  - DOMAIN-SUFFIX,delvenetworks.com
+  - DOMAIN-SUFFIX,limelight.com
+  - DOMAIN-SUFFIX,lldns.net
+  - DOMAIN-SUFFIX,llnw-trials.com
+  - DOMAIN-SUFFIX,llnw.com
+  - DOMAIN-SUFFIX,llnw.net
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,llnwi.net
   ## > Linguee
   - DOMAIN-SUFFIX,linguee.com
   - DOMAIN-SUFFIX,deepl.com
