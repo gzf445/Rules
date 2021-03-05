@@ -11,6 +11,12 @@ payload:
   - DOMAIN-SUFFIX,tvbusa.com
   - DOMAIN-SUFFIX,tvbweekly.com
   - DOMAIN-SUFFIX,tvmedia.net.au
+  ## >> EncoreTVB
+  - DOMAIN-SUFFIX,encoretvb.com
+  - DOMAIN-SUFFIX,content.jwplatform.com
+  - DOMAIN-SUFFIX,videos-f.jwpsrv.com
+  - DOMAIN,edge.api.brightcove.com
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net
   ## >> MyTV SUPER
   - DOMAIN-SUFFIX,mytvsuper.com
   - DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net

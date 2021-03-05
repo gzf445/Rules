@@ -335,12 +335,6 @@ DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
 DOMAIN-SUFFIX,ngeo.com
-## > EncoreTVB
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,content.jwplatform.com
-DOMAIN-SUFFIX,videos-f.jwpsrv.com
-DOMAIN,edge.api.brightcove.com
-DOMAIN,bcbolt446c5271-a.akamaihd.net
 ## > Fox
 DOMAIN-SUFFIX,.fox
 DOMAIN-SUFFIX,cdn-fox-networks-group-green.akamaized.net
@@ -932,6 +926,12 @@ DOMAIN-SUFFIX,tvbeventpower.com.hk
 DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
+## >> EncoreTVB
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
 ## >> MyTV SUPER
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
