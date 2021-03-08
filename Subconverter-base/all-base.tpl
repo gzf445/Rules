@@ -141,7 +141,7 @@ dns:
     - https://dns.alidns.com/dns-query
     - tls://dns.233py.com
     - https://i.233py.com/dns-query
-    - https://dns.233py.com/dns-query
+#    - https://dns.233py.com/dns-query
     - https://doh.pub/dns-query
     - https://dns.pub/dns-query
     - https://dns.cfiec.net/dns-query
@@ -166,7 +166,7 @@ dns:
     - https://dns.twnic.tw/dns-query
     - https://dns-unfiltered.adguard.com/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
-    - https://dns.233py.com/dns-query
+#    - https://dns.233py.com/dns-query
     - https://doh.qis.io/dns-query
     - https://doh.opendns.com/dns-query
     - https://dns.quad9.net/dns-query
