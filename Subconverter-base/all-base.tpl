@@ -164,7 +164,7 @@ dns:
     - https://dns.233py.com/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns.quad9.net/dns-query
-    - https://cloudflare-dns.com/dns-query
+#    - https://cloudflare-dns.com/dns-query
     - https://dns.google/dns-query
     - https://doh.qis.io/dns-query
     - https://doh.opendns.com/dns-query
