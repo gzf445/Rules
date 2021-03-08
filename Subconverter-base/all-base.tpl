@@ -138,15 +138,17 @@ dns:
   nameserver:
     - 223.5.5.5
     - 119.29.29.29
-    - https://doh.pub/dns-query
-    - https://dns.cfiec.net/dns-query
     - https://dns.alidns.com/dns-query
+    - tls://dns.233py.com
     - https://i.233py.com/dns-query
-    - https://dns.twnic.tw/dns-query
-    - https://dns-unfiltered.adguard.com/dns-query
+    - https://dns.233py.com/dns-query
+    - https://doh.pub/dns-query
+    - https://dns.pub/dns-query
+    - https://dns.cfiec.net/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
-    - https://doh.opendns.com/dns-query
-    - https://doh.opendns.com
+#    - https://dns.twnic.tw/dns-query
+#    - https://dns-unfiltered.adguard.com/dns-query
+#    - https://doh.opendns.com/dns-query
 #    - https://cloudflare-dns.com/dns-query
 #    - https://dns.google/dns-query
 #    - https://dns.quad9.net/dns-query
@@ -160,16 +162,16 @@ dns:
 #    - tls://dns.google:853
 #    - tls://dns-tls.qis.io:853
   fallback:
+    - https://doh.dns.sb/dns-query
+    - https://dns.twnic.tw/dns-query
+    - https://dns-unfiltered.adguard.com/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
     - https://dns.233py.com/dns-query
-    - https://dns.twnic.tw/dns-query
-    - https://dns.quad9.net/dns-query
-#    - https://cloudflare-dns.com/dns-query
-    - https://dns.google/dns-query
     - https://doh.qis.io/dns-query
     - https://doh.opendns.com/dns-query
-    - https://doh.opendns.com
-    - https://doh.powerdns.org
+    - https://dns.quad9.net/dns-query
+#    - https://dns.google/dns-query
+#    - https://cloudflare-dns.com/dns-query
 #    - tcp://1.1.1.1
 #    - https://dns.alidns.com/dns-query
 #    - https://doh.dns.sb/dns-query
