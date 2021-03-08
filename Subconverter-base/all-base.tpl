@@ -139,13 +139,13 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
     - https://dns.alidns.com/dns-query
-    - tls://dns.233py.com
     - https://i.233py.com/dns-query
-#    - https://dns.233py.com/dns-query
     - https://doh.pub/dns-query
     - https://dns.pub/dns-query
     - https://dns.cfiec.net/dns-query
     - https://cdn-doh.ssnm.xyz/dns-query
+#    - tls://dns.233py.com
+#    - https://dns.233py.com/dns-query
 #    - https://dns.twnic.tw/dns-query
 #    - https://dns-unfiltered.adguard.com/dns-query
 #    - https://doh.opendns.com/dns-query
