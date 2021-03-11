@@ -4357,9 +4357,12 @@ payload:
   - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,pubmatic.co.jp
   ## > Python
+  - DOMAIN-SUFFIX,pycon.org
+  - DOMAIN-SUFFIX,pypa.io
+  - DOMAIN-SUFFIX,pypi.io
+  - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,pypi.org
   ## > Qualcomm
   - DOMAIN-SUFFIX,airgonetworks.com
   - DOMAIN-SUFFIX,berkanawireless.com
