@@ -8,7 +8,6 @@ allow-lan: {{ local.clash.allow_lan }}
 bind-address: '*'
 mode: rule
 log-level: {{ local.clash.log_level }}
-ipv6: true
 external-controller: {{ local.clash.api_port}}
 #external-ui: folder
 
@@ -19,6 +18,7 @@ profile:
   tracing: true
 {% if exists("request.clash.dns") %}
 {% if request.clash.dns == "tap" %}
+ipv6: true
 #interface-name: WLAN
 hosts:
 dns:
@@ -27,6 +27,7 @@ dns:
   ipv6: true
 {% endif %}
 {% if request.clash.dns == "tun" %}
+ipv6: false
 tun:
   enable: true
   stack: gvisor # only gvisor
@@ -39,9 +40,10 @@ hosts:
 dns:
   enable: true
 #  listen: 0.0.0.0:53
-  ipv6: true
+  ipv6: false
 {% endif %}
 {% if request.clash.dns == "cfa" %}
+ipv6: false
 tun:
   enable: true
   stack: system # or gvisor
@@ -49,7 +51,7 @@ hosts:
 dns:
   enable: true
   listen: 127.0.0.1:1053
-  ipv6: true
+  ipv6: false
 {% endif %}
 {% else %}
 hosts:
