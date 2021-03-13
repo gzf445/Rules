@@ -145,7 +145,8 @@ dns:
     - https://doh.pub/dns-query
     - https://dns.pub/dns-query
     - https://dns.cfiec.net/dns-query
-    - https://cdn-doh.ssnm.xyz/dns-query
+    - https://dns.rubyfish.cn/dns-query
+#    - https://cdn-doh.ssnm.xyz/dns-query
 #    - tls://dns.233py.com
 #    - https://dns.233py.com/dns-query
 #    - https://dns.twnic.tw/dns-query
@@ -159,7 +160,6 @@ dns:
 #    - 101.101.101.101
 #    - tcp://119.29.107.85:9090
 #    - https://doh.dns.sb/dns-query
-#    - https://dns.rubyfish.cn/dns-query
 #    - tls://cloudflare-dns.com:853
 #    - tls://dns.google:853
 #    - tls://dns-tls.qis.io:853
@@ -167,11 +167,11 @@ dns:
     - https://doh.dns.sb/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns-unfiltered.adguard.com/dns-query
-    - https://cdn-doh.ssnm.xyz/dns-query
-#    - https://dns.233py.com/dns-query
     - https://doh.qis.io/dns-query
     - https://doh.opendns.com/dns-query
     - https://dns.quad9.net/dns-query
+#    - https://cdn-doh.ssnm.xyz/dns-query
+#    - https://dns.233py.com/dns-query
 #    - https://dns.google/dns-query
 #    - https://cloudflare-dns.com/dns-query
 #    - tcp://1.1.1.1
