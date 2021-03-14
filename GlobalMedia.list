@@ -939,6 +939,12 @@ USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
 DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+## > TVER
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,tver.jp
 ## > Vidol TV
 DOMAIN-SUFFIX,vidol.tv
 ## > Viki
