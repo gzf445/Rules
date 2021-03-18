@@ -3410,7 +3410,9 @@ DOMAIN-SUFFIX,appgrub.com
 DOMAIN-SUFFIX,iapprank.com
 ## > OSChina
 DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,runjs.cn
 ## > 欧朋浏览器
 DOMAIN-SUFFIX,adbxb.cn
 DOMAIN-SUFFIX,adbxb.com
