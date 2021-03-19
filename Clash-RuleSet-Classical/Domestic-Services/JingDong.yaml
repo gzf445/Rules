@@ -1,8 +1,10 @@
 payload:
   ## > 京东
+  - DOMAIN-SUFFIX,300hu.com
   - DOMAIN-SUFFIX,360top.com
   - DOMAIN-SUFFIX,blackdragon.com
   - DOMAIN-SUFFIX,dao123.com
+  - DOMAIN-SUFFIX,jd-app.com
   - DOMAIN-SUFFIX,jdbusiness.com
   - DOMAIN-SUFFIX,jddapeigou.com
   - DOMAIN-SUFFIX,jddebug.com
@@ -15,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,qianxun.com
   - DOMAIN-SUFFIX,qingzhouip.com
   - DOMAIN-SUFFIX,sgsic.com
+  - DOMAIN-SUFFIX,toplife.com
+  - DOMAIN-SUFFIX,wdfok.com
   ## >> 京东彩娱
   - DOMAIN-SUFFIX,caiyu.com
   ## >> 京东大药房

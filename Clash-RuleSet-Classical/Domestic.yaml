@@ -1523,6 +1523,21 @@ payload:
   - DOMAIN-SUFFIX,xiaojukeji.com
   ## > 顶象
   - DOMAIN-SUFFIX,dingxiang-inc.com
+  ## > 帝联网络
+  - DOMAIN-SUFFIX,acadn.cn
+  - DOMAIN-SUFFIX,acadn.com
+  - DOMAIN-SUFFIX,bbbcdns.com
+  - DOMAIN-SUFFIX,dlgslb.cn
+  - DOMAIN-SUFFIX,dlgslb.net
+  - DOMAIN-SUFFIX,dwion.com
+  - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,fastcdn.com.cn
+  - DOMAIN-SUFFIX,flxdns.cn
+  - DOMAIN-SUFFIX,flxdns.com
+  - DOMAIN-SUFFIX,globalcdn.cn
+  - DOMAIN-SUFFIX,mcadn.cn
+  - DOMAIN-SUFFIX,tlgslb.cn
+  - DOMAIN-SUFFIX,tlgslb.com
   ## > 第一弹
   - DOMAIN-SUFFIX,diyidan.com
   - DOMAIN-SUFFIX,diyidan.net
@@ -2008,6 +2023,7 @@ payload:
   - DOMAIN-SUFFIX,cgbchina.com.cn
   - DOMAIN-SUFFIX,gdb.com.cn
   ## > CITIC (中信银行)
+  - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,chinaamc.com
   - DOMAIN-SUFFIX,citic-prudential.com.cn
   - DOMAIN-SUFFIX,citic.com
@@ -2083,16 +2099,16 @@ payload:
   - DOMAIN-SUFFIX,psbcoa.com.cn
   - DOMAIN-SUFFIX,95580.net
   ## > UnionPay (中国银联)
-  - DOMAIN-SUFFIX,chinaunionpay.com
   - DOMAIN-SUFFIX,95516.com
+  - DOMAIN-SUFFIX,95516.net
+  - DOMAIN-SUFFIX,chinaunionpay.com
+  - DOMAIN-SUFFIX,chinaunionpay.com.cn
   - DOMAIN-SUFFIX,chinaunionpay.net
-  - DOMAIN-SUFFIX,unionpay.net
   - DOMAIN-SUFFIX,cup62.cn
   - DOMAIN-SUFFIX,unionpay.com
-  - DOMAIN-SUFFIX,chinaunionpay.com.cn
-  - DOMAIN-SUFFIX,unionpaysecure.com
-  - DOMAIN-SUFFIX,95516.net
+  - DOMAIN-SUFFIX,unionpay.net
   - DOMAIN-SUFFIX,unionpayintl.com
+  - DOMAIN-SUFFIX,unionpaysecure.com
   ## >> 银联电子支付
   - DOMAIN-SUFFIX,airepay.net
   - DOMAIN-SUFFIX,chinapay.cn
@@ -2180,9 +2196,11 @@ payload:
   - DOMAIN-SUFFIX,nutstore.net
   - DOMAIN-SUFFIX,nutstorehq.com
   ## > 京东
+  - DOMAIN-SUFFIX,300hu.com
   - DOMAIN-SUFFIX,360top.com
   - DOMAIN-SUFFIX,blackdragon.com
   - DOMAIN-SUFFIX,dao123.com
+  - DOMAIN-SUFFIX,jd-app.com
   - DOMAIN-SUFFIX,jdbusiness.com
   - DOMAIN-SUFFIX,jddapeigou.com
   - DOMAIN-SUFFIX,jddebug.com
@@ -2195,6 +2213,8 @@ payload:
   - DOMAIN-SUFFIX,qianxun.com
   - DOMAIN-SUFFIX,qingzhouip.com
   - DOMAIN-SUFFIX,sgsic.com
+  - DOMAIN-SUFFIX,toplife.com
+  - DOMAIN-SUFFIX,wdfok.com
   ## >> 京东彩娱
   - DOMAIN-SUFFIX,caiyu.com
   ## >> 京东大药房
@@ -3306,16 +3326,16 @@ payload:
   - DOMAIN-SUFFIX,withwinds.com
   - DOMAIN-SUFFIX,xueto.com
   ## > 蘑菇街
-  - DOMAIN-SUFFIX,xdgogogo.com
   - DOMAIN-SUFFIX,juangua.com
-  - DOMAIN-SUFFIX,styledata.cn
-  - DOMAIN-SUFFIX,meili-inc.com
-  - DOMAIN-SUFFIX,mogujielive.com
   - DOMAIN-SUFFIX,linkeye.net
-  - DOMAIN-SUFFIX,uniny.com
+  - DOMAIN-SUFFIX,meili-inc.com
+  - DOMAIN-SUFFIX,mogu.com
   - DOMAIN-SUFFIX,mogucdn.com
   - DOMAIN-SUFFIX,mogujie.com
-  - DOMAIN-SUFFIX,mogu.com
+  - DOMAIN-SUFFIX,mogujielive.com
+  - DOMAIN-SUFFIX,styledata.cn
+  - DOMAIN-SUFFIX,uniny.com
+  - DOMAIN-SUFFIX,xdgogogo.com
   ## > 墨迹天气
   - DOMAIN-SUFFIX,xiaomo.cn
   - DOMAIN-SUFFIX,moweather.com
@@ -3466,9 +3486,9 @@ payload:
   ## > 学院君
   - DOMAIN-SUFFIX,xueyuanjun.com
   ## > 拼多多
+  - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,pinduoduo.com
   - DOMAIN-SUFFIX,yangkeduo.com
-  - DOMAIN-SUFFIX,pddpic.com
   ## > PPTV
   - DOMAIN-SUFFIX,g1d.net
   - DOMAIN-SUFFIX,iptv.com.cn
@@ -3536,6 +3556,7 @@ payload:
   - DOMAIN-SUFFIX,qiniutek.com
   - DOMAIN-SUFFIX,qnfcdn.com
   - DOMAIN-SUFFIX,qnlinking.com
+  - DOMAIN-SUFFIX,qnsdk.com
   - DOMAIN-SUFFIX,qnssl.com
   - DOMAIN-SUFFIX,qnydns.com
   - DOMAIN-SUFFIX,qnydns.net
@@ -5350,6 +5371,7 @@ payload:
   - DOMAIN-SUFFIX,yblxyp.cn
   - DOMAIN-SUFFIX,youmengchuangxiang.com
   ## > 友盟
+  - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,mobmore.com
   - DOMAIN-SUFFIX,um0.cn
   - DOMAIN-SUFFIX,um1.cn
