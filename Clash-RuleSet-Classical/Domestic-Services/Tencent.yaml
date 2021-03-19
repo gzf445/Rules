@@ -257,8 +257,11 @@ payload:
   ## >> 虎牙
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,huyagame.cn
+  - DOMAIN-SUFFIX,huyaos.com
+  - DOMAIN-SUFFIX,msstatic.com
   - DOMAIN-SUFFIX,peiwanlu.com
   - DOMAIN-SUFFIX,snapplay.com
+  - DOMAIN-SUFFIX,wanjiashow.com
   ## >> DNSPod
   - DOMAIN-SUFFIX,dns.pub
   - DOMAIN-SUFFIX,dnsapi.cn
