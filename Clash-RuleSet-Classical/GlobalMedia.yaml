@@ -83,21 +83,29 @@ payload:
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
   ## > BBC
+  - USER-AGENT,BBCiPlayer*
+  - DOMAIN-SUFFIX,bbc
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.net.uk
   - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+  - DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
   - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcmedia.co.uk
   - DOMAIN-SUFFIX,bbcverticals.com
+  - DOMAIN-SUFFIX,bidi.net.uk
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
   - DOMAIN,vod-dash-uk-live.akamaized.net
   - DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net
   - DOMAIN,vod-dash-ww-live.akamaized.net
   - DOMAIN,vod-dash-ww-live.bbcfmt.s.llnwi.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
   - DOMAIN,vod-thumb-uk-live.akamaized.net
   - DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net
   - DOMAIN,vod-thumb-ww-live.akamaized.net
@@ -892,9 +900,11 @@ payload:
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN,hamifans.emome.net
   ## > TIDAL
-  - DOMAIN-SUFFIX,tidal.com
+  - USER-AGENT,TIDAL*dia
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+  - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
+  - DOMAIN-SUFFIX,wimpmusic.com
   ## > TikTok
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
