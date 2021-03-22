@@ -5049,6 +5049,11 @@ DOMAIN-SUFFIX,ytiny.cn
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengimg.com
 DOMAIN-SUFFIX,wfdata.club
+## > 微至云动
+DOMAIN-SUFFIX,dicom365.com
+DOMAIN-SUFFIX,dycom365.com
+DOMAIN-SUFFIX,wedcm.com
+DOMAIN-SUFFIX,weiyunyingxiang.com
 ## > 问卷星
 DOMAIN-SUFFIX,sojump.com
 DOMAIN-SUFFIX,wjx.cn
