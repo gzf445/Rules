@@ -3757,6 +3757,10 @@ DOMAIN-SUFFIX,suningyunyou.cn
 DOMAIN-SUFFIX,suningyunyou.com
 DOMAIN-SUFFIX,wuliuyun.com
 DOMAIN-SUFFIX,yifubao.com
+## >> 阿里云盘
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyunpds.com
 ## >> Teambition
 DOMAIN-SUFFIX,jianliao.com
 DOMAIN-SUFFIX,project.ai
