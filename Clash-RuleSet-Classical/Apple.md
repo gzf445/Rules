@@ -28,8 +28,6 @@
 
   - ## Swift
 
-  - ## Unity
-
   - ## WebKit
 
 - # [AppleFirmware](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Apple/AppleFirmware.yaml)
