@@ -293,3 +293,6 @@ payload:
   - DOMAIN-SUFFIX,xoyocdn.com
   - DOMAIN-SUFFIX,xsjcs.cn
   - DOMAIN-SUFFIX,xsjom.com
+  ## >> 澄迈云享智胜网络
+  - DOMAIN-SUFFIX,ks-live.com
+  - DOMAIN-SUFFIX,ksyunacc.cn
