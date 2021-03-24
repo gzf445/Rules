@@ -223,3 +223,5 @@ payload:
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net
   - DOMAIN,d17lx9ucc6k9fc.cloudfront.net
+  ## >> Naver TV
+  - DOMAIN-SUFFIX,smartmediarep.com
