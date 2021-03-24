@@ -142,13 +142,15 @@ DOMAIN-SUFFIX,viacomcbspressexpress.com
 DOMAIN-SUFFIX,cbsradio.com
 ## >> Paramount
 USER-AGENT,PPlus*
-DOMAIN-SUFFIX,paramount.com
-DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
 DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+DOMAIN-SUFFIX,paramount.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
-DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
 ## >> ShowTime
 DOMAIN-SUFFIX,showtime.com
 ## > CNBC
@@ -343,6 +345,13 @@ DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
 DOMAIN-SUFFIX,ngeo.com
+## > E-Hentai Gallery
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,hentaiverse.org
 ## > Fox
 DOMAIN-SUFFIX,.fox
 DOMAIN-SUFFIX,cdn-fox-networks-group-green.akamaized.net
@@ -787,6 +796,10 @@ DOMAIN-SUFFIX,mtg.now.com
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 DOMAIN,d349g9zuie06uo.cloudfront.net
+## > Naver TV
+USER-AGENT,Naver%20TV*
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,smartmediarep.com
 ## > Niconico
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicodic.jp
@@ -951,7 +964,9 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
 DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
 ## > TVER
+USER-AGENT,TVer-Release*
 DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,edge.api.brightcove.com
 DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,screens-lab.jp
 DOMAIN-SUFFIX,tver.co.jp

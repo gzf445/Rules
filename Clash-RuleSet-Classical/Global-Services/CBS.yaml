@@ -23,12 +23,14 @@ payload:
   ## >> CBS Radio
   - DOMAIN-SUFFIX,cbsradio.com
   ## >> Paramount
-  - DOMAIN-SUFFIX,paramount.com
-  - DOMAIN-SUFFIX,cbsi.com
   - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
   - DOMAIN-SUFFIX,cbsivideo.com
+  - DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+  - DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+  - DOMAIN-SUFFIX,paramount.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pplusstatic.com
-  - DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
   ## >> ShowTime
   - DOMAIN-SUFFIX,showtime.com
