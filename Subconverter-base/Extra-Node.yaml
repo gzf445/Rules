@@ -134,7 +134,7 @@ proxies:
     server: music.desperadoj.com
     port: '30001'
     cipher: aes-128-gcm
-    password: desperadoj.com
+    password: desperadoj.com_free_proxy_emx2
     udp: true
   - name: 樱花互联网易云解锁
     type: http
@@ -144,6 +144,21 @@ proxies:
     password:
     # tls: true # https
     # skip-cert-verify: true
+  - name: LolicoLi网易云解锁
+    server: music.lolico.me
+    port: 39000
+    type: http
+    username: ''
+    password: ''
+    tls: false
+    udp: true
+  - name: taron.top网易云解锁
+    server: taron.top
+    port: 100
+    type: http
+    username: ''
+    password: ''
+    tls: false
     udp: true
 proxy-groups:
   - name: 网易云解锁
@@ -153,6 +168,8 @@ proxy-groups:
       - pcysanji网易云解锁
       - 如风博客网易云解锁
       - 樱花互联网易云解锁
+      - LolicoLi网易云解锁
+      - taron.top网易云解锁
 rules:
   ## > 🐷 NeteaseMusic
   - DOMAIN,netease.ugcvideoss.ourdvs.com,网易云解锁
