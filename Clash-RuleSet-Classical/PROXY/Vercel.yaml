@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,vercel-status.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,vercel.link
   - DOMAIN-SUFFIX,zeit-world.co.uk
   - DOMAIN-SUFFIX,zeit-world.com
   - DOMAIN-SUFFIX,zeit-world.net
