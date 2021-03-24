@@ -219,6 +219,8 @@ hide-udp=0
 keyword-filter-type=(null)
 keyword-filter=(null)
 
+[Proxy]
+
 [Proxy Group]
 
 [Rule]
