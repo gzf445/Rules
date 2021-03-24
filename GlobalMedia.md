@@ -48,6 +48,8 @@
 
   - ## Nationalgeographic
 
+- # [E-Hentai Gallery](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/EHGallery.list)
+
 - # [EncoreTVB](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/EncoreTVB.list)
 
 - # [Fox](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Fox.list)
@@ -93,6 +95,8 @@
 - # [MOOV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/MOOV.list)
 
 - # [My5](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/My5.list)
+
+- # [Naver TV](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/NaverTV.list)
 
 - # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Global-Services/Niconico.list)
 

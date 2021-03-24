@@ -48,6 +48,8 @@
 
   - ## Nationalgeographic
 
+- # [E-Hentai Gallery](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/EHGallery.yaml)
+
 - # [EncoreTVB](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/EncoreTVB.yaml)
 
 - # [Fox](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Fox.yaml)
@@ -93,6 +95,8 @@
 - # [MOOV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/MOOV.yaml)
 
 - # [My5](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/My5.yaml)
+
+- # [Naver TV](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/NaverTV.yaml)
 
 - # [Niconico](https://github.com/LM-Firefly/Rules/blob/master/Clash-RuleSet-Classical/Global-Services/Niconico.yaml)
 
